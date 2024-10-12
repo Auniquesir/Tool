@@ -3,4 +3,5 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "manual"
+      interval: "weekly"  # 或者可以设置为 "monthly"
+      timezone: "Asia/Shanghai"
