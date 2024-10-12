@@ -1,0 +1,5 @@
+# 规则名称: BiliBiliIntl.list
+# 规则统计: 2
+
+DOMAIN-SUFFIX,bilibili.tv
+PROCESS-NAME,com.bstar.intl
