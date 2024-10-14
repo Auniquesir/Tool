@@ -1,0 +1,207 @@
+ipv6: true
+allow_external_connections: false
+vif_only: false
+hijack_dns:
+- '*:53'
+geoip_db_url: https://github.com/Auniquesir/Boxs/raw/X/CNIP/Country.mmdb
+asn_db_url: ''
+proxy_latency_test_url: http://cp.cloudflare.com/
+direct_latency_test_url: http://connect.rom.miui.com/generate_204
+dns:
+  bootstrap:
+  - system
+  upstreams:
+    ChinaDNS:
+    - https://223.5.5.5
+    GlobalDNS:
+    - https://1.1.1.1
+    - https://8.8.8.8
+    - https://101.101.101.101
+  forward:
+  - wildcard:
+      match: '''*.cn'''
+      value: ChinaDNS
+  - proxy_rule_set:
+      match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/China/China_Domain.list
+      value: ChinaDNS
+  - wildcard:
+      match: '*'
+      value: GlobalDNS
+  hosts:
+    localhost: 127.0.0.1
+    ip6-localhost: ::1
+    ip6-loopback: ::1
+    ip6-localnet: fe00::0
+    ip6-mcastprefix: ff00::0
+    ip6-allnodes: ff02::1
+    ip6-allrouters: ff02::2
+    ip6-allhosts: ff02::3
+  public_ip_lookup_url: https://ifconfig.me/ip
+policy_groups:
+- external:
+    name: 节点选择
+    type: select
+    urls:
+    - 此处填写订阅地址
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Egern.png
+    hidden: false
+- select:
+    name: 国内分流
+    policies:
+    - DIRECT
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/China_Map.png
+    hidden: true
+- select:
+    name: 拒绝应答
+    policies:
+    - REJECT
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Reject.png
+    hidden: true
+- select:
+    name: 香港节点
+    policies:
+    - 节点选择
+    flatten: true
+    filter: 港|🇭🇰|HK|Hong
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Hong_Kong.png
+    hidden: false
+- select:
+    name: 美国节点
+    policies:
+    - 节点选择
+    flatten: true
+    filter: 美|🇺🇸|US|States|American
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/United_States.png
+    hidden: false
+- select:
+    name: 狮城节点
+    policies:
+    - 节点选择
+    flatten: true
+    filter: 坡|🇸🇬|SG|Singapore
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Singapore.png
+    hidden: false
+- select:
+    name: 日本节点
+    policies:
+    - 节点选择
+    flatten: true
+    filter: 日|🇯🇵|JP|Japan
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Japan.png
+    hidden: false
+- select:
+    name: 台湾节点
+    policies:
+    - 节点选择
+    flatten: true
+    filter: 台|🇨🇳|🇹🇼|TW|Taiwan
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/China.png
+    hidden: false
+- auto_test:
+    name: 其他节点
+    policies:
+    - 节点选择
+    flatten: true
+    filter: ^((?!🇭🇰|港|HK|Hong|🇹🇼|台|TW|Tai|🇯🇵|日|JP|Japan|🇸🇬|坡|狮城|SG|Singapore|🇺🇸|美|US|States|American).)*$
+    icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Rainbow.png
+    hidden: false
+rules:
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Direct/Direct.list
+    policy: 国内分流
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Boxs/X/Rule/AdBlock.list
+    policy: 拒绝应答
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/BlockHttpDNS/BlockHttpDNS.list
+    policy: 拒绝应答
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Hijacking/Hijacking.list
+    policy: 拒绝应答
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Privacy/Privacy_All_No_Resolve.list
+    policy: 拒绝应答
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/OpenAI/OpenAI.list
+    policy: 美国节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Copilot/Copilot.list
+    policy: 美国节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Gemini/Gemini.list
+    policy: 美国节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Apple/Apple.list
+    policy: 国内分流
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Microsoft/Microsoft.list
+    policy: 国内分流
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/ChinaMedia/ChinaMedia.list
+    policy: 国内分流
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/GitHub/GitHub.list
+    policy: 香港节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/GitLab/GitLab.list
+    policy: 香港节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Telegram/Telegram.list
+    policy: 狮城节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Twitter/Twitter.list
+    policy: 台湾节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Spotify/Spotify.list
+    policy: 美国节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/TikTok/TikTok.list
+    policy: 日本节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Bing/Bing.list
+    policy: 美国节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/YouTube/YouTube.list
+    policy: 美国节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Google/Google.list
+    policy: 美国节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Speedtest/Speedtest.list
+    policy: 节点选择
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Proxy/Proxy_All_No_Resolve.list
+    policy: 美国节点
+- rule_set:
+    match: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rules/Lan/Lan.list
+    policy: 国内分流
+- geoip:
+    match: CN
+    policy: 国内分流
+- default:
+    policy: 节点选择
+url_rewrites:
+- match: ^https?://(www.)?g.cn
+  location: https://www.google.com
+  status_code: 302
+- match: ^https?://(www.)?google.cn
+  location: https://www.google.com
+  status_code: 302
+mitm:
+  enabled: true
+modules:
+- name: YouTube广告拦截
+  url: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Module/YouTubeADS.sgmodule
+  enabled: true
+- name: 阻止HTTPDNS 服务器
+  url: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rewrite/BlockHTTPDNS/BlockHTTPDNS.sgmodule
+  enabled: true
+- name: 安全重定向
+  url: https://raw.githubusercontent.com/Auniquesir/Tool/X/Egern/Rewrite/SafeRedirect/SafeRedirect.sgmodule
+  enabled: true
+- name: 重写规则集转换
+  url: https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.surge.sgmodule
+  enabled: true
+- name: 订阅管理工具
+  url: https://raw.githubusercontent.com/sub-store-org/Sub-Store/master/config/Surge-Noability.sgmodule
+  enabled: true
