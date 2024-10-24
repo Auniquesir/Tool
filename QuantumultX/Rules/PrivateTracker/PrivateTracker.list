@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker.list
-# 规则统计: 252
+# 规则统计: 251
 
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -8,7 +8,6 @@ HOST,amigacity.xyz,PrivateTracker
 HOST,api.clasificadosrapidos.com,PrivateTracker
 HOST,bandito.byterunner.io,PrivateTracker
 HOST,bittorrent-tracker.e-n-c-r-y-p-t.net,PrivateTracker
-HOST,bt.ktrackers.com,PrivateTracker
 HOST,bt.okmp3.ru,PrivateTracker
 HOST,bt.rer.lol,PrivateTracker
 HOST,bvarf.tracker.sh,PrivateTracker
@@ -20,6 +19,7 @@ HOST,ec2-18-191-163-220.us-east-2.compute.amazonaws.com,PrivateTracker
 HOST,evan.im,PrivateTracker
 HOST,exodus.desync.com,PrivateTracker
 HOST,explodie.org,PrivateTracker
+HOST,free.publictracker.xyz,PrivateTracker
 HOST,ipv4.rer.lol,PrivateTracker
 HOST,ipv6.rer.lol,PrivateTracker
 HOST,jutone.com,PrivateTracker
@@ -116,7 +116,6 @@ HOST,tracker4.itzmx.com,PrivateTracker
 HOST,trackers.mlsub.net,PrivateTracker
 HOST,ttk2.nbaonlineservice.com,PrivateTracker
 HOST,u4.trakx.crim.ist,PrivateTracker
-HOST,u6.trakx.crim.ist,PrivateTracker
 HOST,wepzone.net,PrivateTracker
 HOST,www.all4nothin.net,PrivateTracker
 HOST,www.peckservers.com,PrivateTracker
