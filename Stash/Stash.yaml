@@ -1,0 +1,213 @@
+# 将proxy-providers里面链接中的“订阅链接”替换即可
+# ================
+
+# 通用设置
+mixed-port: 7890
+allow-lan: true
+bind-address: '*'
+mode: Rule
+log-level: info
+ipv6: true
+external-controller: :9090
+
+# DNS模
+dns:
+  default-nameserver:
+    - 223.5.5.5
+    - system
+  nameserver:
+    - https://223.5.5.5/dns-query
+  fake-ip-filter:
+    - .lan
+    - cable.auth.com
+    - '*.msftconnecttest.com'
+    - '*.msftncsi.com'
+    - network-test.debian.org
+    - detectportal.firefox.com
+    - resolver1.opendns.com
+    - '*.srv.nintendo.net'
+    - '*.stun.playstation.net'
+    - xbox.*.microsoft.com
+    - '*.xboxlive.com'
+    - stun.*
+    - global.turn.twilio.com
+    - global.stun.twilio.com
+    - localhost.*.qq.com
+    - localhost.*.weixin.qq.com
+    - '*.logon.battlenet.com.cn'
+    - '*.logon.battle.net'
+    - '*.blzstatic.cn'
+    - music.163.com
+    - '*.music.163.com'
+    - '*.126.net'
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - '*.kuwo.cn'
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - '*.y.qq.com'
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - '*.xiami.com'
+    - '*.music.migu.cn'
+    - music.migu.cn
+    - proxy.golang.org
+    - '*.mcdn.bilivideo.cn'
+    - '*.cmpassport.com'
+    - id6.me
+    - open.e.189.cn
+    - mdn.open.wo.cn
+    - opencloud.wostore.cn
+    - auth.wosms.cn
+    - '*.jegotrip.com.cn'
+    - '*.icitymobile.mobi'
+    - '*.pingan.com.cn'
+    - '*.cmbchina.com'
+    - pool.ntp.org
+    - '*.pool.ntp.org'
+    - ntp.*.com
+    - ntp?.*.com
+    - time.*.com
+    - time?.*.com
+    - time.*.gov
+    - time.*.edu.cn
+    - '*.ntp.org.cn'
+    - PDC._msDCS.*.*
+    - DC._msDCS.*.*
+    - GC._msDCS.*.*
+
+# > 订阅信息展示
+subscribe-url: 
+
+# > 远程服务器
+proxy-providers:
+  Subscribe:
+    interval: 86400
+    url:  订阅链接
+    benchmark-timeout: 5
+    benchmark-url: http://cp.cloudflare.com/
+
+proxy-groups:
+
+  # 分流分组
+
+  - {name: 手动切换, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Stash.png, type: select, include-all: true, proxies: [香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点, DIRECT]}
+
+  - {name: 国外网站, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Global.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点]}
+
+  - {name: 国际媒体, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/ForeignMedia.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点]}
+
+  - {name: 微软服务, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Microsoft_1.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点, DIRECT]}
+  
+  - {name: 苹果服务, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Apple.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点, DIRECT]}
+
+  - {name: 谷歌服务, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Google.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点]}
+
+  - {name: 电报消息, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Telegram.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点]}
+
+  - {name: 推特消息, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Twitter.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点]}
+
+  - {name: 智能应答, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Chatgpt.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点]}
+
+  - {name: 国际抖音, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/TikTok.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点, DIRECT]}
+
+  - {name: Emby, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Emby.png, type: select, include-all: true, proxies: [香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点]}
+
+  - {name: Spotify, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Spotify.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点]}
+
+  - {name: 兜底分流, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Stash2.png, type: select, proxies: [手动切换, 香港节点, 美国节点, 狮城节点, 日本节点, 台湾节点, DIRECT]}
+
+  # 节点地区分流
+
+  - {name: 香港节点, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Hong_Kong.png, type: url-test, interval: 300, include-all: true, filter: "(?i)🇭🇰|香港|(\b(HK|Hong)\b)"}
+
+  - {name: 美国节点, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/United_States.png, type: url-test, interval: 300, include-all: true, filter: "(?i)🇺🇸|美国|洛杉矶|圣何塞|(\b(US|United States)\b)"}
+
+  - {name: 狮城节点, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Singapore.png, type: url-test, interval: 300, include-all: true, filter: "(?i)🇸🇬|新加坡|狮|(\b(SG|Singapore)\b)"}
+
+  - {name: 日本节点, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Japan.png, type: url-test, interval: 300, include-all: true, filter: "(?i)🇯🇵|日本|东京|(\b(JP|Japan)\b)"}
+
+  - {name: 台湾节点, icon: https://raw.githubusercontent.com/Auniquesir/Box/X/icon/App/Taiwan.png, type: url-test, interval: 300, include-all: true, filter: "(?i)🇨🇳|🇹🇼|台湾|(\b(TW|Tai|Taiwan)\b)"}
+
+rule-providers:
+
+  # 局域网   
+  Lan: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Lan/Lan.list}
+
+  #广告拦截
+  Antiad: {behavior: classical, format: text, interval: 86400, url: https://raw.githubusercontent.com/Auniquesir/Boxs/X/Rule/Antiad.list}
+
+  # 苹果服务
+  Apple: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Apple/Apple.list}
+  AppleProxy: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/AppleProxy/AppleProxy.list}
+  
+  # 微软服务 
+  Microsoft: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Microsoft/Microsoft.list}
+  OneDrive: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/OneDrive/OneDrive.list}
+  Github: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Github/Github.list}
+
+  # 谷歌服务
+  Youtube: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/YouTube/YouTube.list}
+  Google: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Google/Google.list}
+
+  # 电报消息
+  Telegram: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Telegram/Telegram.list}
+
+  # 推特消息
+  Twitter: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Twitter/Twitter.list}
+
+  # 国际抖音
+  TikTok: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/TikTok/TikTok.list}
+
+  # AI平台
+  AI: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/OpenAI/OpenAI.list}
+
+  # Emby
+  Emby: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Emby/Emby.list}
+
+  # Spotify
+  Spotify: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Spotify/Spotify.list}
+  
+  # 国际媒体
+  Bahamut: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Bahamut/Bahamut.list}
+  Netflix: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Netflix/Netflix.list}
+  Disney: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Disney/Disney.list}
+  PrimeVideo: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/PrimeVideo/PrimeVideo.list}
+  HBO: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/HBO/HBO.list}
+
+  # 代理网站
+  ProxyGFW: {behavior: classical, format: text, interval: 86400, url: https://github.com/Auniquesir/Tool/raw/X/Stash/Rules/Proxy/Proxy.list}
+
+rules:
+  - RULE-SET,Antiad,REJECT
+  - RULE-SET,AI,智能应答
+  - RULE-SET,OneDrive,微软服务
+  - RULE-SET,Microsoft,微软服务
+  - RULE-SET,Youtube,谷歌服务
+  - RULE-SET,Google,谷歌服务
+  - RULE-SET,Twitter,推特消息
+  - RULE-SET,Telegram,电报消息
+  - RULE-SET,TikTok,国际抖音
+  - RULE-SET,Emby,Emby
+  - RULE-SET,Bahamut,国际媒体
+  - RULE-SET,Netflix,国际媒体
+  - RULE-SET,Disney,国际媒体
+  - RULE-SET,PrimeVideo,国际媒体
+  - RULE-SET,HBO,国际媒体
+  - RULE-SET,TikTok,国际抖音
+  - RULE-SET,Spotify,Spotify
+  - RULE-SET,ProxyGFW,国外网站
+  - RULE-SET,AppleProxy,国外网站
+  - RULE-SET,Github,国外网站
+  - RULE-SET,Apple,DIRECT
+  - RULE-SET,Lan,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,兜底分流
