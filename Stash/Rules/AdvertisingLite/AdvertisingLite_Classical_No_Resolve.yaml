@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite_Classical_No_Resolve
-# 规则统计: 38023
+# 规则统计: 38024
 
 payload:
   - DOMAIN,00-gov.cn
@@ -30601,6 +30601,7 @@ payload:
   - DOMAIN-SUFFIX,jdb.jiudingcapital.com
   - DOMAIN-SUFFIX,jdcbuy.com
   - DOMAIN-SUFFIX,jddaw.com
+  - DOMAIN-SUFFIX,jddebug.com
   - DOMAIN-SUFFIX,jdf494.cn
   - DOMAIN-SUFFIX,jdflower.cn
   - DOMAIN-SUFFIX,jdgsgl.com

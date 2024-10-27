@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 247
+# 规则统计: 250
 no_resolve: true
 domain_set:
 - 1337.abcvg.info
@@ -50,6 +50,7 @@ domain_set:
 - seedpeer.net
 - serpb.vpsburti.com
 - sparkle.ghostchu-services.top
+- t.overflow.biz
 - taciturn-shadow.spb.ru
 - tk.greedland.net
 - tk2v6.trackerservers.com
@@ -58,6 +59,7 @@ domain_set:
 - tr.burnabyhighstar.com
 - tr.kxmp.cf
 - tr1.aag.moe
+- tr4ck3r.duckdns.org
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
@@ -96,10 +98,11 @@ domain_set:
 - tracker.skyts.net
 - tracker.srv00.com
 - tracker.tamersunion.org
-- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
+- tracker.torrust-demo.com
 - tracker.tryhackx.org
+- tracker.uraniumhexafluori.de
 - tracker.waaa.moe
 - tracker.xor.st
 - tracker.yemekyedim.com

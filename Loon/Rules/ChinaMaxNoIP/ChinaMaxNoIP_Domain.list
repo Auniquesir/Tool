@@ -1,5 +1,5 @@
 # 规则名称: ChinaMaxNoIP_Domain.list
-# 规则统计: 92948
+# 规则统计: 92947
 
 .0-6.com
 .0.zone
@@ -43883,7 +43883,6 @@
 .jddaojia.shop
 .jddapeigou.com
 .jdddata.com
-.jddebug.com
 .jddglobal.com
 .jddj.com
 .jddmoto.com

@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_Resolve.list
-# 规则统计: 247
+# 规则统计: 250
 
 DOMAIN,1337.abcvg.info
 DOMAIN,1c.premierzal.ru
@@ -49,6 +49,7 @@ DOMAIN,ryjer.com
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
 DOMAIN,sparkle.ghostchu-services.top
+DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,tk2v6.trackerservers.com
@@ -57,6 +58,7 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr1.aag.moe
+DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,trackarr.org
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
@@ -95,10 +97,11 @@ DOMAIN,tracker.renfei.net
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,tracker.torrust-demo.com
 DOMAIN,tracker.tryhackx.org
+DOMAIN,tracker.uraniumhexafluori.de
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xor.st
 DOMAIN,tracker.yemekyedim.com

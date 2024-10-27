@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite.list
-# 规则统计: 38022
+# 规则统计: 38023
 
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -30600,6 +30600,7 @@ HOST-SUFFIX,jdb.jiudingcapital.cn,AdvertisingLite
 HOST-SUFFIX,jdb.jiudingcapital.com,AdvertisingLite
 HOST-SUFFIX,jdcbuy.com,AdvertisingLite
 HOST-SUFFIX,jddaw.com,AdvertisingLite
+HOST-SUFFIX,jddebug.com,AdvertisingLite
 HOST-SUFFIX,jdf494.cn,AdvertisingLite
 HOST-SUFFIX,jdflower.cn,AdvertisingLite
 HOST-SUFFIX,jdgsgl.com,AdvertisingLite

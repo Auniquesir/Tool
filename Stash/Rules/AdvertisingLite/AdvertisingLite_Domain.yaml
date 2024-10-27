@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite_Domain
-# 规则统计: 37651
+# 规则统计: 37652
 
 payload:
   - '00-gov.cn'
@@ -30601,6 +30601,7 @@ payload:
   - '+.jdb.jiudingcapital.com'
   - '+.jdcbuy.com'
   - '+.jddaw.com'
+  - '+.jddebug.com'
   - '+.jdf494.cn'
   - '+.jdflower.cn'
   - '+.jdgsgl.com'

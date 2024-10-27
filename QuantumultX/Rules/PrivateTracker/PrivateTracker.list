@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker.list
-# 规则统计: 247
+# 规则统计: 250
 
 HOST,1337.abcvg.info,PrivateTracker
 HOST,1c.premierzal.ru,PrivateTracker
@@ -49,6 +49,7 @@ HOST,ryjer.com,PrivateTracker
 HOST,seedpeer.net,PrivateTracker
 HOST,serpb.vpsburti.com,PrivateTracker
 HOST,sparkle.ghostchu-services.top,PrivateTracker
+HOST,t.overflow.biz,PrivateTracker
 HOST,taciturn-shadow.spb.ru,PrivateTracker
 HOST,tk.greedland.net,PrivateTracker
 HOST,tk2v6.trackerservers.com,PrivateTracker
@@ -57,6 +58,7 @@ HOST,torrentsmd.com,PrivateTracker
 HOST,tr.burnabyhighstar.com,PrivateTracker
 HOST,tr.kxmp.cf,PrivateTracker
 HOST,tr1.aag.moe,PrivateTracker
+HOST,tr4ck3r.duckdns.org,PrivateTracker
 HOST,trackarr.org,PrivateTracker
 HOST,tracker-udp.gbitt.info,PrivateTracker
 HOST,tracker-zhuqiy.dgj055.icu,PrivateTracker
@@ -95,10 +97,11 @@ HOST,tracker.renfei.net,PrivateTracker
 HOST,tracker.skyts.net,PrivateTracker
 HOST,tracker.srv00.com,PrivateTracker
 HOST,tracker.tamersunion.org,PrivateTracker
-HOST,tracker.theoks.net,PrivateTracker
 HOST,tracker.tiny-vps.com,PrivateTracker
 HOST,tracker.torrent.eu.org,PrivateTracker
+HOST,tracker.torrust-demo.com,PrivateTracker
 HOST,tracker.tryhackx.org,PrivateTracker
+HOST,tracker.uraniumhexafluori.de,PrivateTracker
 HOST,tracker.waaa.moe,PrivateTracker
 HOST,tracker.xor.st,PrivateTracker
 HOST,tracker.yemekyedim.com,PrivateTracker

@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite_All.list
-# 规则统计: 38025
+# 规则统计: 38026
 
 DOMAIN,00-gov.cn
 DOMAIN,0024aadd.com
@@ -30600,6 +30600,7 @@ DOMAIN-SUFFIX,jdb.jiudingcapital.cn
 DOMAIN-SUFFIX,jdb.jiudingcapital.com
 DOMAIN-SUFFIX,jdcbuy.com
 DOMAIN-SUFFIX,jddaw.com
+DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,jdf494.cn
 DOMAIN-SUFFIX,jdflower.cn
 DOMAIN-SUFFIX,jdgsgl.com

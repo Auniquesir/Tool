@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite
-# 规则统计: 38022
+# 规则统计: 38023
 no_resolve: true
 domain_set:
 - 00-gov.cn
@@ -30602,6 +30602,7 @@ domain_suffix_set:
 - jdb.jiudingcapital.com
 - jdcbuy.com
 - jddaw.com
+- jddebug.com
 - jdf494.cn
 - jdflower.cn
 - jdgsgl.com
