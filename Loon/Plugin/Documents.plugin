@@ -1,0 +1,9 @@
+#!name = Documents
+#!desc = Documents解锁会员
+#!icon = https://github.com/Auniquesir/Box/raw/X/icon/App/loonLite.png
+
+[Script]
+http-request ^https:\/\/license\.pdfexpert\.com\/api\/2\.0\/documents\/subscription\/refresh requires-body=1,script-path=https://raw.githubusercontent.com/Auniquesir/Box/refs/heads/X/script/Documents.js
+
+[MITM] 
+hostname = license.pdfexpert.com
