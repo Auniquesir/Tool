@@ -1,8 +1,8 @@
 # 规则名称: Advertising.stoverride
-# 规则统计: 1456
+# 规则统计: 1457
 
 name: 复写去广告
-desc: 最后更新时间 2024-12-05 02:17:00
+desc: 最后更新时间 2024-12-08 02:15:33
 http:
   rewrite:
     - ^http:\/\/.*aastocks\.com\/ad\/ - reject
@@ -907,6 +907,7 @@ http:
     - "api.kuaidihelp.com"
     - "api.kurobbs.com"
     - "api.laifeng.com"
+    - "api.livelab.com.cn"
     - "api.m.jd.com"
     - "api.m.mi.com"
     - "api.maoyan.com"
