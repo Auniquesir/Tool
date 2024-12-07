@@ -1,0 +1,9 @@
+#!name=阿里 DNS
+#!desc=适配阿里 DoH JSON API
+#!icon=https://github.com/Auniquesir/Box/raw/X/icon/icon/Egern.png
+
+[Host]
+{{{请求域名}}}= script:Alidns
+
+[Script]
+Alidns = type=dns,engine=jsc,script-path=https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Tools/alidns.js,argument="{"HOST":"{{{阿里DNS}}}","UID":"{{{Account ID}}}","ID":"{{{AccessKey ID}}}","SECRET":"{{{AccessKey Secret}}}","DID":"{{{Device ID}}}","TYPE":"{{{请求类型}}}"}"
