@@ -1,6 +1,6 @@
 # 规则名称: AntiAd
-# 规则数量: 137305
-# 更新时间: 2024-12-08 08:52:37
+# 规则数量: 137344
+# 更新时间: 2024-12-08 20:16:38
 
 +.0.101tubeporn.com
 +.0.code.cotsta.ru
@@ -1953,6 +1953,7 @@
 +.3site-rss.s3-ap-northeast-1.amazonaws.com
 +.3skickasurf.tre.se
 +.3t769up6.com
++.3ts.icu
 +.3twentyfour.xyz
 +.3u4zyeugi.com
 +.3uvz5.xyz
@@ -2871,7 +2872,6 @@
 +.7-7-7-partner.com
 +.7-companycompany.com
 +.7-cracker.com
-+.7.shopsharm.ru
 +.7.tracktrack.org
 +.7.y2sysv81v.com
 +.700900.com
@@ -3785,7 +3785,6 @@
 +.9tp9jd4p.de
 +.9tumza4dp4o9.com
 +.9u12sw4aa591h3hg.berunews.com
-+.9uwe.papilliondairyqueen.com
 +.9vyzdk8.lvditoys.com
 +.9vzn29.98kk89.com
 +.9w2zed1szg.execute-api.us-east-1.amazonaws.com
@@ -3936,7 +3935,6 @@
 +.a.fapcat.com
 +.a.fapster.xxx
 +.a.fchp.org
-+.a.fidar.site
 +.a.fimoa.xyz
 +.a.flux.jp
 +.a.fox.com
@@ -5849,6 +5847,7 @@
 +.aaa.tumanyi.com
 +.aaa.vidox.net
 +.aaa.zxglpj.cn
++.aaa85877ba.com
 +.aaaa.jawfp2.org
 +.aaaa.nocor.jp
 +.aaaaaco.com
@@ -11772,6 +11771,7 @@
 +.agffrusilj.com
 +.agflkiombagl.com
 +.aggalj.eloem.kr
++.aggdubnixa.com
 +.aggelakia.openapp.link
 +.aggestose.com
 +.agghriwaz.com
@@ -14436,7 +14436,6 @@
 +.animaterecover.com
 +.animationfullmovie.com
 +.animaux.oworld.fr
-+.animeshoppers.com
 +.animeteatr.ru
 +.animikii-ana.com
 +.animits.com
@@ -17493,6 +17492,7 @@
 +.attackfile.com
 +.attaindisableneedlework.com
 +.attcct.enaturalnie.pl
++.attelaoe.com
 +.attemptingstray.com
 +.attempttensionfrom.com
 +.attempttipsrye.com
@@ -19913,6 +19913,7 @@
 +.behavelyricshighly.com
 +.behavior.tongdun.net
 +.behavioralengine.com
++.behaviorbald.com
 +.behe.com
 +.beheldconformoutlaw.com
 +.behim.click
@@ -21513,6 +21514,7 @@
 +.bnmtgboouf.com
 +.bnnfvd.xyz
 +.bnpfdzp.xyz
++.bnpknicjeb.com
 +.bnqt.com
 +.bnr.sys.lv
 +.bnrdnx.xyz
@@ -23577,6 +23579,7 @@
 +.c11011.com
 +.c1313.f28014.cn
 +.c150420df3.8c1204d49f.com
++.c1595223cf.com
 +.c16cp358.com
 +.c196c337d9.ade6b8430d.com
 +.c1a6a94262.4a1c2f215f.com
@@ -27462,6 +27465,7 @@
 +.cluodlfare.com
 +.cluster.adultworld.com
 +.clusterdamages.top
++.clusterposture.com
 +.clustrmaps.com
 +.clutchlilts.com
 +.cluttercallousstopped.com
@@ -27990,6 +27994,7 @@
 +.coinbasepro-giveaway.com
 +.coinblind.com
 +.coinblocktyrusmiram.com
++.coincideadventure.com
 +.coindiscussion.net
 +.coiner.site
 +.coinerra.com
@@ -31394,6 +31399,7 @@
 +.cunealfume.shop
 +.cuntwars.com
 +.cupboardbangingcaptain.com
++.cupboardgold.com
 +.cupcbn.otrium.de
 +.cupid.iqiyi.com
 +.cupidirresolute.com
@@ -33153,6 +33159,7 @@
 +.dark-utilities.xyz
 +.darkandlight.ru
 +.darkavenger.hackfree.us
++.darkenedplane.com
 +.darkercoincidentsword.com
 +.darkerillegimateillegimateshade.com
 +.darkerprimevaldiffer.com
@@ -37878,6 +37885,7 @@
 +.dh810.com
 +.dh820.com
 +.dhadbeensoattr.info
++.dhalafbwfcv.com
 +.dharmaclarke.tech
 +.dharnaslaked.top
 +.dhauzja511.co.cc
@@ -39170,6 +39178,7 @@
 +.dnsprotector.net
 +.dnsup.net
 +.dnt-userreport.com
++.dntigerly.top
 +.dnvgecz.com
 +.dnvod.tv
 +.dnxcok.pentik.com
@@ -40249,6 +40258,7 @@
 +.dsnurj.nissan-rentacar.com
 +.dsnymrk0k4p3v.cloudfront.net
 +.dsoodbye.xyz
++.dsoxgdjv.icu
 +.dsoxjxin5jji.controlconceptsusa.com
 +.dsp-ad.yy.com
 +.dsp-click.youdao.com
@@ -43774,6 +43784,7 @@
 +.enginenetwork.com
 +.engineseeker.com
 +.englandhogmane.com
++.engraftrebite.com
 +.engravetexture.com
 +.engwsq.xyz
 +.enhad.xyz
@@ -45733,6 +45744,7 @@
 +.fa.corp.163.com
 +.fa.fpt.shop
 +.fa77756437.com
++.faaof.com
 +.faaqgje.icu
 +.fabhabitat.fr
 +.faboshine.com
@@ -46877,6 +46889,7 @@
 +.fictionauspice.com
 +.fictionfittinglad.com
 +.ficusoid.xyz
++.fidar.site
 +.fiddleweaselloom.com
 +.fidelity-media.com
 +.fidelitybarge.com
@@ -48200,6 +48213,7 @@
 +.formerlyparsleysuccess.com
 +.formidableprovidingdisguised.com
 +.formidablestems.com
++.formingclayease.com
 +.formisimo.com
 +.formismagiustor.com
 +.forms-emea.lenovo.com
@@ -49983,6 +49997,7 @@
 +.gabblecongestionhelpful.com
 +.gabblewhining.com
 +.gabecsgo.com
++.gabledsamba.com
 +.gabrcm.membershop.lt
 +.gabrielahlavack.samcart.com
 +.gabriellalovecats.com
@@ -51310,6 +51325,7 @@
 +.getrockerbox.com
 +.getrunbestlovemy.info
 +.getrunkhomuto.info
++.getrunmeellso.com
 +.getrunsirngflgpologey.com
 +.getrxhere.co
 +.gets.myoyster.mx
@@ -51568,6 +51584,7 @@
 +.ghreha.top
 +.ghrnbw.avocadostore.de
 +.ghrzlu.skechers.com.tr
++.ghsheukwasa.com
 +.ghsheukwasana.info
 +.ghsnhjk.cn
 +.ghtry.amateurswild.com
@@ -51758,6 +51775,7 @@
 +.gixgav.icu
 +.gixiluros.com
 +.gixmo.dk
++.gixtgaieap.xyz
 +.gizlnr.com
 +.gizsyj.thegrommet.com
 +.gj.mmstat.com
@@ -53824,6 +53842,7 @@
 +.grefaunu.com
 +.grefutiwhe.com
 +.grehamsoah.xyz
++.greheelsy.net
 +.grehtrsan.com
 +.greithlinener.space
 +.greltoat.xyz
@@ -55216,6 +55235,7 @@
 +.handfulnobodytextbook.com
 +.handfulsobcollections.com
 +.handgripvegetationhols.com
++.handgunoatbin.com
 +.handkerchiefpeeks.com
 +.handkerchiefpersonnel.com
 +.handkerchiefstapleconsole.com
@@ -62206,6 +62226,7 @@
 +.iptautup.com
 +.iptmgi.akan.co.kr
 +.iptmih.hifi-regler.de
++.iptoagroulu.net
 +.iptrack.io
 +.iptuy.cn
 +.iptvdeals.com
@@ -63669,6 +63690,7 @@
 +.jkanime.net.iberostar.com
 +.jkcontrols.co.uk
 +.jke1.jianke.com
++.jkepmztst.com
 +.jkerpa.clogau.co.uk
 +.jkfdnofnz.com
 +.jkgeyo.urbanara.de
@@ -65889,6 +65911,7 @@
 +.koaptouw.com
 +.koataigalupo.net
 +.koauq.top
++.koawipheela.xyz
 +.koazowapsib.net
 +.kob.adxkj.com
 +.kobeden.com
@@ -66220,6 +66243,7 @@
 +.kuhvkajactas.com
 +.kuhxhoanlf.com
 +.kuiniuca.com
++.kujbxpbphyca.com
 +.kuk8.com
 +.kukckk.sagefinds.com
 +.kukiwu.ru
@@ -70245,6 +70269,7 @@
 +.lopqrx.xyz
 +.lopsideddebate.com
 +.lopsidedleather.com
++.loqwo.site
 +.lorageiros.com
 +.loralana.com
 +.lordeeksogoatee.net
@@ -78612,6 +78637,7 @@
 +.mk.limonshel.de
 +.mkadsearch.lizhifm.com
 +.mkbbjtfp.xyz
++.mkcsjgtfej.com
 +.mkenativji.com
 +.mkepacotck.com
 +.mkg.colfondos.co
@@ -79168,6 +79194,7 @@
 +.mockingcolloquial.com
 +.mockingfish.com
 +.mockingsubtlecrimpycrimpy.com
++.mockscissorssatisfaction.com
 +.mocmubse.net
 +.mocsheieamnl.com
 +.modelingfraudulent.com
@@ -81235,7 +81262,6 @@
 +.navi39.ru
 +.navi4.com
 +.navi40.com
-+.navi42.ru
 +.navi45.ru
 +.navi5.com
 +.navi50.com
@@ -82794,6 +82820,7 @@
 +.norm0care.com
 +.norma-external-collect.meizu.com
 +.normal-strength.com
++.normalfloat.com
 +.normalheart.pro
 +.normallycollector.com
 +.normallydirtenterprising.com
@@ -82945,6 +82972,7 @@
 +.novedades.telecomfibercorp.com.ar
 +.novedadesdiarias.com
 +.novel-inevitable.com
++.novelaoutfire.shop
 +.novelcompliance.com
 +.novelslopeoppressive.com
 +.novelsns.html5.qq.com
@@ -83364,6 +83392,7 @@
 +.nutletcorvees.com
 +.nutmegshow.com
 +.nutom.ru
++.nutriaalvah.com
 +.nutrientassumptionclaims.com
 +.nutritionshooterinstructor.com
 +.nutritiousbean.com
@@ -83371,6 +83400,7 @@
 +.nuttedmoireed.shop
 +.nuttishstromb.shop
 +.nuttyorganization.com
++.nuttywealth.pro
 +.nutvii.perfumesclub.it
 +.nuucmzuc.com
 +.nuvaioqds.com
@@ -84289,7 +84319,6 @@
 +.ogmjhve.cn
 +.ogniicbnb.ru
 +.ognunn.chavesnamao.com.br
-+.ogogear.com
 +.ogondkskyahxa.ru
 +.ogouawc.cn
 +.ogpdwe.livin24.com
@@ -85524,6 +85553,7 @@
 +.openxxx.viragemedia.com
 +.opera-van.com
 +.operaharvestrevision.com
++.operakeyboardhindsight.com
 +.operaserver.com
 +.operatingnews.com
 +.operationalcocktailtribute.com
@@ -89069,6 +89099,7 @@
 +.phs.tanx.com
 +.phsism.com
 +.phtivr.xyz
++.phtpy.love
 +.phts.io
 +.phublid.costlig.uno
 +.phudauwy.com
@@ -90554,6 +90585,7 @@
 +.pompouslemonadetwitter.com
 +.pompreflected.com
 +.pon-prairie.com
++.ponderliquidate.com
 +.pondov.cfd
 +.pong.fccay.cn
 +.ponieqldeos.com
@@ -93261,6 +93293,7 @@
 +.qajgarohwobh.com
 +.qajwizsifaj.com
 +.qajxks.unagiscooters.com
++.qaklbrqevbqbv.top
 +.qaklbrqevbzqz.top
 +.qakot.ru
 +.qakzfubfozaj.com
@@ -98904,6 +98937,7 @@
 +.sabavision.com
 +.sabercuacro.org
 +.sabergood.com
++.sabinaazophen.top
 +.sableloss.com
 +.sableshelf.com
 +.sablesmile.com
@@ -99570,6 +99604,7 @@
 +.sardineforgiven.com
 +.sare25.com
 +.sarinfalun.com
++.sarinnarks.shop
 +.sarkinehydriae.live
 +.sarodzajcwwy.com
 +.sarov.ws
@@ -101584,6 +101619,7 @@
 +.ser.nrovn.xyz
 +.ser678uikl.xyz
 +.seraphichorizon.com
++.seraphsklom.com
 +.serasearchtop.com
 +.serch26.biz
 +.serconmp.com
@@ -103211,6 +103247,7 @@
 +.sjgsgy.xyz
 +.sjh.baidu.com
 +.sjilyhwpu.xyz
++.sjimtyb.top
 +.sjj.jsyjwj.com
 +.sjkdbvjksbv.com
 +.sjluuom.icu
@@ -125471,6 +125508,7 @@
 +.uparceuson.com
 +.uparpu.com
 +.upasiansex.com
++.upbemzagunkppj.com
 +.upbriningleverforecast.com
 +.upclipper.com
 +.upcomingmonkeydolphin.com
@@ -126749,6 +126787,7 @@
 +.veephoboodouh.net
 +.veepteero.com
 +.veeqlly.com
++.veeredfunt.top
 +.veezudeedou.net
 +.vefrou.tamaris.com
 +.vegaschina.cn
@@ -135217,6 +135256,7 @@
 +.ykraeij.com
 +.ykrec.youku.com
 +.ykrectab.youku.com
++.ykrohjqz.com
 +.ykskhw.candytm.pl
 +.yktj.yzz.cn
 +.ykugc.cp31.ott.cibntv.net.302.myalicdn.com
@@ -135367,7 +135407,6 @@
 +.yoke.jyhlo0.com
 +.yokeeroud.com
 +.yoksamhain.com
-+.yoli.my.id
 +.yolkhandledwheels.com
 +.yollamedia.com
 +.yolo.philipbjorge.com
