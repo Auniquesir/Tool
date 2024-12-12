@@ -1,6 +1,6 @@
 # 规则名称: AntiAd
-# 规则数量: 137485
-# 更新时间: 2024-12-12 08:47:35
+# 规则数量: 137484
+# 更新时间: 2024-12-12 20:18:50
 
 payload:
   - '+.0.101tubeporn.com'
@@ -6554,7 +6554,6 @@ payload:
   - '+.acconsento.click'
   - '+.accordancespotted.com'
   - '+.accordinglyair.com'
-  - '+.account-cfe.mx'
   - '+.account-review.com'
   - '+.accountancy.bppeloqua.com'
   - '+.accountantpacketassail.com'
@@ -16057,7 +16056,6 @@ payload:
   - '+.app.umassathletics.com'
   - '+.app.umterps.com'
   - '+.app.und.com'
-  - '+.app.uniwspapp.com'
   - '+.app.unlockar.com'
   - '+.app.unlvrebels.com'
   - '+.app.update.lenovo.com'
@@ -19178,6 +19176,7 @@ payload:
   - '+.bantercubicle.com'
   - '+.banterteeserving.com'
   - '+.bantgoau.com'
+  - '+.bantucepat.com'
   - '+.baobabsruesome.com'
   - '+.baobaoshiye.com.cn'
   - '+.baoyatu.cc'
@@ -20981,6 +20980,7 @@ payload:
   - '+.bjhhbox.xyz'
   - '+.bjhjw.com.cn'
   - '+.bjhmt.com'
+  - '+.bjimtyv.top'
   - '+.bjjabc.com'
   - '+.bjjkuoxidr.xyz'
   - '+.bjlmok.com'
@@ -58995,7 +58995,6 @@ payload:
   - '+.ilovemobi.com'
   - '+.iloveyouxi.com'
   - '+.ilph0.icu'
-  - '+.ilpollenza-sorso23.it'
   - '+.ilpostoplus.openapp.link'
   - '+.ilqnef.whipbunny.jp'
   - '+.ilsxbd.rockymountainatvmc.com'
@@ -66242,6 +66241,7 @@ payload:
   - '+.ktbdxs.trendhim.se'
   - '+.ktdcoy.lyst.it'
   - '+.ktdlsb.com'
+  - '+.ktgpgoa.top'
   - '+.ktgrio.heatwavevisual.com'
   - '+.kthjuw.lyst.com.au'
   - '+.ktienld.top'
@@ -81341,6 +81341,7 @@ payload:
   - '+.navi38.ru'
   - '+.navi39.ru'
   - '+.navi4.com'
+  - '+.navi42.ru'
   - '+.navi45.ru'
   - '+.navi5.com'
   - '+.navi50.com'
@@ -103937,7 +103938,6 @@ payload:
   - '+.smartology.co'
   - '+.smartpicrotation.com'
   - '+.smartpower4all.org'
-  - '+.smartproduct.site'
   - '+.smartracker.net'
   - '+.smartredirect.de'
   - '+.smartsavings.click'
@@ -124502,7 +124502,6 @@ payload:
   - '+.uakxkb.icu'
   - '+.ualkzq.moobel1.ee'
   - '+.uamrqv.sauna-hammam.fr'
-  - '+.uangqu.online'
   - '+.uanxss.klingel.cz'
   - '+.uaoaig.xyz'
   - '+.uapmxl.alphaoutpost.com'

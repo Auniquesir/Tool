@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 137486
-# 更新时间: 2024-12-12 08:47:35
+# 规则数量: 137485
+# 更新时间: 2024-12-12 20:18:49
 
 no_resolve: true
 domain_suffix_set:
@@ -6555,7 +6555,6 @@ domain_suffix_set:
 - acconsento.click
 - accordancespotted.com
 - accordinglyair.com
-- account-cfe.mx
 - account-review.com
 - accountancy.bppeloqua.com
 - accountantpacketassail.com
@@ -16058,7 +16057,6 @@ domain_suffix_set:
 - app.umassathletics.com
 - app.umterps.com
 - app.und.com
-- app.uniwspapp.com
 - app.unlockar.com
 - app.unlvrebels.com
 - app.update.lenovo.com
@@ -19179,6 +19177,7 @@ domain_suffix_set:
 - bantercubicle.com
 - banterteeserving.com
 - bantgoau.com
+- bantucepat.com
 - baobabsruesome.com
 - baobaoshiye.com.cn
 - baoyatu.cc
@@ -20982,6 +20981,7 @@ domain_suffix_set:
 - bjhhbox.xyz
 - bjhjw.com.cn
 - bjhmt.com
+- bjimtyv.top
 - bjjabc.com
 - bjjkuoxidr.xyz
 - bjlmok.com
@@ -58996,7 +58996,6 @@ domain_suffix_set:
 - ilovemobi.com
 - iloveyouxi.com
 - ilph0.icu
-- ilpollenza-sorso23.it
 - ilpostoplus.openapp.link
 - ilqnef.whipbunny.jp
 - ilsxbd.rockymountainatvmc.com
@@ -66243,6 +66242,7 @@ domain_suffix_set:
 - ktbdxs.trendhim.se
 - ktdcoy.lyst.it
 - ktdlsb.com
+- ktgpgoa.top
 - ktgrio.heatwavevisual.com
 - kthjuw.lyst.com.au
 - ktienld.top
@@ -81342,6 +81342,7 @@ domain_suffix_set:
 - navi38.ru
 - navi39.ru
 - navi4.com
+- navi42.ru
 - navi45.ru
 - navi5.com
 - navi50.com
@@ -103938,7 +103939,6 @@ domain_suffix_set:
 - smartology.co
 - smartpicrotation.com
 - smartpower4all.org
-- smartproduct.site
 - smartracker.net
 - smartredirect.de
 - smartsavings.click
@@ -124503,7 +124503,6 @@ domain_suffix_set:
 - uakxkb.icu
 - ualkzq.moobel1.ee
 - uamrqv.sauna-hammam.fr
-- uangqu.online
 - uanxss.klingel.cz
 - uaoaig.xyz
 - uapmxl.alphaoutpost.com
