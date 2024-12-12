@@ -1,10 +1,25 @@
-#!name=ChatGPTPlus
-#!desc=ChatGPTPlus
+#!name=Spotify
+#!desc=Spotify
+#!icon=https://raw.githubusercontent.com/Auniquesir/Box/X/icon/Spotify.png
 
 [Script]
+跟踪响应·JSON = type=http-response, pattern=^https?:\/\/api\.spotify\.com\/v1\/tracks\?, script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/Spotify_response.js, requires-body=true
 
-ChatGPTPlusCrack_1 = type=http-response, pattern=^https?:\/\/ios\.chat\.openai\.com\/backend-api\/(accounts\/check\/|models), requires-body=true, max-size=3145728, script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/ChatGPTPlusCrack.js, timeout=60, script-update-interval=0
+歌词请求·JSON = type=http-request, pattern=^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/(.+)\?(.*)format=json, script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/Spotify_request.js, requires-body=true
+
+歌词请求·Proto = type=http-request, pattern=^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/\w+\?(.*), script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/Spotify_request.js, requires-body=true, binary-body-mode=true
+
+翻译歌词响应·JSON = type=http-response, pattern=^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/(.+)\?(.*)format=json(.*)subtype=Translate, script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/Translate_response.js, requires-body=true
+
+翻译歌词响应·Proto = type=http-response, pattern=^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/\w+\?(.*)subtype=Translate, script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/Translate_response.js, requires-body=true, binary-body-mode=true
+
+外部歌词响应·JSON = type=http-response, pattern=^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/(.+)\?(.*)format=json(.*)subtype=External, script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/External_Lyrics_response.js, requires-body=true
+
+外部歌词响应·Proto = type=http-response, pattern=^https?:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/\w+\?(.*)subtype=External, script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/External_Lyrics_response.js, requires-body=true, binary-body-mode=true
+
+JSON处理 = type=http-request, pattern=^https:\/\/spclient\.wg\.spotify\.com\/(artistview\/v1\/artist|album-entity-view\/v2\/album)\/, script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/Spotify_remove_ads.js, timeout=10
+
+Proto处理 = type=http-response, pattern=^https:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$, script-path=https://github.com/Moli-X/Resources/raw/main/Loon/Spotify/Test/Spotify_proto.js, requires-body=true, binary-body-mode=true, timeout=10
 
 [MITM]
-
-hostname = %APPEND% ios.chat.openai.com
+hostname = %APPEND% api.spotify.com, spclient.wg.spotify.com
