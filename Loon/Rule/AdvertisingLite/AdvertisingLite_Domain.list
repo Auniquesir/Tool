@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite_Domain.list
-# 规则统计: 37651
+# 规则统计: 37664
 
 .000dn.com
 .001union.com
@@ -2026,6 +2026,7 @@
 .analytics.21cn.com
 .analytics.aasaam.com
 .analytics.ad.daum.net
+.analytics.adfreetime.com
 .analytics.anvato.net
 .analytics.arz.at
 .analytics.atomiconline.com
@@ -2052,6 +2053,7 @@
 .analytics.hz.netease.com
 .analytics.ifood.tv
 .analytics.industriemagazin.net
+.analytics.infobae.com
 .analytics.inform.com
 .analytics.islamicfinder.org
 .analytics.jabong.com
@@ -2375,6 +2377,7 @@
 .atomicblast.lol
 .atoultou.com
 .atrace.chelaile.net.cn
+.atrack.allposters.com
 .atrack.art.com
 .attach.s8bbs.com
 .atterrounesh.info
@@ -3485,6 +3488,7 @@
 .click.udimg.com
 .click.uve.mobile.sina.cn
 .click.uve.weibo.com
+.click.vgnett.no
 .click1n.soufun.com
 .click2.cafepress.com
 .click2.hd.sohu.com
@@ -6414,6 +6418,7 @@
 .ie8eamus.com
 .ie8q.cn
 .iebar.baidu.com
+.iedc.fitbit.com
 .ieeod0.com
 .iendoo.com
 .ienkdaccessible.cn
@@ -7732,6 +7737,7 @@
 .logs.chelaile.net.cn
 .logs.dashlane.com
 .logs.gaana.com
+.logs.ggweb.nl
 .logs.newapi.com
 .logs.thebloggernetwork.com
 .logs.vmixcore.com
@@ -8732,6 +8738,7 @@
 .nihaomama.monster
 .niholaev.com
 .nijiua.com
+.nil.naver.com
 .nimdinb.com
 .nimmediu.info
 .ninebox.cn
@@ -9406,6 +9413,7 @@
 .pixel.dorehernowi.pro
 .pixel.fanbridge.com
 .pixel.glimr.io
+.pixel.honestjohn.co.uk
 .pixel.naij.com
 .pixel.newscgp.com
 .pixel.newsdiscover.com.au
@@ -10019,6 +10027,7 @@
 .release.baidu.com
 .releasurezesa.site
 .reliancevalve.com
+.rem-track.bild.de
 .remarypolike.site
 .remote88.com
 .remotedu.cn
@@ -10947,6 +10956,7 @@
 .ssp.chaohutechan.com
 .ssp.cibn.starschina.com
 .ssp.dmpdsp.com
+.ssp.hinet.net
 .ssp.kss.ksyun.com
 .ssp.kssws.ks-cdn.com
 .ssp.kxly360.com
@@ -11012,6 +11022,7 @@
 .stat.m.jd.com
 .stat.moji.com
 .stat.novinky.cz
+.stat.ouedkniss.com
 .stat.pandora.xiaomi.com
 .stat.ppstream.com
 .stat.pptv.com
@@ -11630,6 +11641,7 @@
 .tl875f.cn
 .tlp5.mimale.com
 .tm-offers.gamingadult.com
+.tm.uol.com.br
 .tmcs.net
 .tmgr.ccmbg.com
 .tmisc.home.news.cn
@@ -12615,6 +12627,7 @@
 .weboser.com
 .webp2p.letv.com
 .webspectator.com
+.webstat.kuwo.cn
 .webstat.ws.126.net
 .webstatistieken.xs4all.nl
 .webstats.thesoul-publishing.com

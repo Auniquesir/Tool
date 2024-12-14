@@ -1,11 +1,12 @@
 # 规则名称: Jetbrains.list
-# 规则统计: 13
+# 规则统计: 14
 
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,intellij.com
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,intellij.org
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.io
 DOMAIN-SUFFIX,jetbrains.net

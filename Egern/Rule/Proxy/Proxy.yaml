@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6503
+# 规则统计: 6496
 no_resolve: true
 domain_set:
 - api.msn.com
@@ -4172,8 +4172,6 @@ domain_suffix_set:
 - pen.io
 - penchinese.com
 - penchinese.net
-- pengyulong.com
-- penisbot.com
 - pentalogic.net
 - penthouse.com
 - pentoy.hk
@@ -4190,7 +4188,6 @@ domain_suffix_set:
 - phapluan.org
 - phayul.com
 - philborges.com
-- philly.com
 - phmsociety.org
 - phncdn.com
 - phobos.apple.com
@@ -4349,7 +4346,6 @@ domain_suffix_set:
 - provpnaccounts.com
 - proxfree.com
 - proxifier.com
-- proxlet.com
 - proxomitron.info
 - proxpn.com
 - proxyanonimo.es
@@ -4417,7 +4413,6 @@ domain_suffix_set:
 - qkshare.com
 - qmzdd.com
 - qoos.com
-- qooza.hk
 - qpoe.com
 - qq.co.za
 - qstatus.com
@@ -4460,13 +4455,11 @@ domain_suffix_set:
 - raizoji.or.jp
 - ramcity.com.au
 - rangwang.biz
-- rangzen.com
 - rangzen.net
 - rangzen.org
 - ranxiang.com
 - ranyunfei.com
 - rapbull.net
-- rapidgator.net
 - rapidmoviez.com
 - rapidvpn.com
 - rarbgprx.org

@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker_No_Resolve
-# 规则统计: 277
+# 规则统计: 279
 
 payload:
   - DOMAIN,0123456789nonexistent.com
@@ -31,9 +31,9 @@ payload:
   - DOMAIN,isk.richardsw.club
   - DOMAIN,ismaarino.com
   - DOMAIN,jutone.com
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,mathkangaroo.jp
-  - DOMAIN,ns-1.x-fins.com
   - DOMAIN,ns1.monolithindustries.com
   - DOMAIN,nyaa.tracker.wf
   - DOMAIN,odd-hd.fr
@@ -53,6 +53,7 @@ payload:
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,retracker.x2k.ru
   - DOMAIN,retracker01-msk-virt.corbina.net
+  - DOMAIN,rfc5746.mywaifu.best
   - DOMAIN,rt.tace.ru
   - DOMAIN,seeders-paradise.org
   - DOMAIN,seedpeer.net
@@ -72,13 +73,13 @@ payload:
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tr1.aag.moe
+  - DOMAIN,tr2.trkb.ru
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,trackarr.org
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,tracker.0x7c0.com
   - DOMAIN,tracker.beeimg.com
-  - DOMAIN,tracker.birkenwald.de
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bjut.jp
   - DOMAIN,tracker.breizh.pm
@@ -92,6 +93,7 @@ payload:
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.dmcomic.org
+  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.fnix.net
@@ -120,9 +122,9 @@ payload:
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.vanitycore.co
+  - DOMAIN,tracker.vds.nz
   - DOMAIN,tracker.vraphim.com
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.xiaoduola.xyz

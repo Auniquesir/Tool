@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 5929
+# 规则统计: 5922
 
 payload:
   - 'api.waqi.info'
@@ -3796,8 +3796,6 @@ payload:
   - '+.pen.io'
   - '+.penchinese.com'
   - '+.penchinese.net'
-  - '+.pengyulong.com'
-  - '+.penisbot.com'
   - '+.pentalogic.net'
   - '+.penthouse.com'
   - '+.pentoy.hk'
@@ -3814,7 +3812,6 @@ payload:
   - '+.phapluan.org'
   - '+.phayul.com'
   - '+.philborges.com'
-  - '+.philly.com'
   - '+.phmsociety.org'
   - '+.phncdn.com'
   - '+.phobos.apple.com'
@@ -3952,7 +3949,6 @@ payload:
   - '+.provpnaccounts.com'
   - '+.proxfree.com'
   - '+.proxifier.com'
-  - '+.proxlet.com'
   - '+.proxomitron.info'
   - '+.proxpn.com'
   - '+.proxyanonimo.es'
@@ -4020,7 +4016,6 @@ payload:
   - '+.qkshare.com'
   - '+.qmzdd.com'
   - '+.qoos.com'
-  - '+.qooza.hk'
   - '+.qpoe.com'
   - '+.qq.co.za'
   - '+.qstatus.com'
@@ -4063,13 +4058,11 @@ payload:
   - '+.raizoji.or.jp'
   - '+.ramcity.com.au'
   - '+.rangwang.biz'
-  - '+.rangzen.com'
   - '+.rangzen.net'
   - '+.rangzen.org'
   - '+.ranxiang.com'
   - '+.ranyunfei.com'
   - '+.rapbull.net'
-  - '+.rapidgator.net'
   - '+.rapidmoviez.com'
   - '+.rapidvpn.com'
   - '+.rarbgprx.org'
