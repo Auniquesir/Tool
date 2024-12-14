@@ -1,6 +1,6 @@
 # 规则名称: AntiAd
 # 规则数量: 137614
-# 更新时间: 2024-12-14 08:45:44
+# 更新时间: 2024-12-14 20:16:07
 
 +.0.101tubeporn.com
 +.0.code.cotsta.ru
@@ -29129,7 +29129,6 @@
 +.content-cooperation.com
 +.content-datacenter.hello.global.ntt
 +.content-garden.com
-+.content-loader.com
 +.content-rec.com
 +.content-square.net
 +.content.4teamwork.ch
@@ -30478,6 +30477,7 @@
 +.creatives1.ftimg.net
 +.creativesumo.com
 +.creativlonk.fr
++.creatopy-adtag-production.b-cdn.net
 +.creator.zmags.com
 +.creatorcherry.com
 +.creatorpassenger.com
@@ -42873,7 +42873,6 @@
 +.elon-promo.com
 +.elongatedmiddle.com
 +.elongives.biz
-+.elonmusk2x.org
 +.elonreptiloid.com
 +.elonweb.org
 +.elooksjustli.one
@@ -46689,6 +46688,7 @@
 +.femalecozy.com
 +.femalesunderpantstrapes.com
 +.femefaih.com
++.fement.info
 +.femetrics.grammarly.io
 +.femin.online
 +.femininetextmessageseducing.com
@@ -57652,7 +57652,6 @@
 +.htliaproject.com
 +.htm1.ch
 +.htmgrl.jollyroom.no
-+.html-load.com
 +.html.350.com
 +.html.696157.com
 +.html.atm.youku.com
@@ -62653,6 +62652,7 @@
 +.ithsiv.asiamarche.fr
 +.iththinleldedallov.info
 +.itienlo.top
++.itimiyo.top
 +.itineraryborn.com
 +.itinerarymonarchy.com
 +.itineraryupper.com
@@ -82969,7 +82969,6 @@
 +.noretia.com
 +.norex-app.paihealth.no
 +.norfotball.com
-+.norgefotball.com
 +.norgeshoes.com
 +.norm0care.com
 +.norma-external-collect.meizu.com
@@ -93866,6 +93865,7 @@
 +.qm.rcaiv.com
 +.qm.redbull.com
 +.qm.veldtwalk.com
++.qm2.icu
 +.qm92.com
 +.qmaacxajsovk.com
 +.qmahepzo.one
@@ -107964,6 +107964,7 @@
 +.softwebzone.com
 +.softyjahveh.shop
 +.softzspot.com
++.soggy-surround.com
 +.soggysponge.com
 +.soggyzoo.com
 +.soglaptaicmaurg.xyz
@@ -125423,7 +125424,6 @@
 +.unifiedwfo.verintsystemsinc.com
 +.unifini.de
 +.uniformyeah.com
-+.unifully.com
 +.unifyaddition.com
 +.uniguide.fr
 +.unimhk.com
@@ -126161,7 +126161,6 @@
 +.ushaqi.com
 +.usheeptuthoa.com
 +.usheredbruting.top
-+.ushiro.org
 +.ushnjobwcvpebcj.xyz
 +.ushoofop.com
 +.ushzfap.com
@@ -127016,6 +127015,7 @@
 +.veeredfunt.top
 +.veezudeedou.net
 +.vefrou.tamaris.com
++.vegaingi.com
 +.vegaschina.cn
 +.vegashizoku.digital
 +.vegetablesparrotplus.com
@@ -134685,6 +134685,7 @@
 +.xunzbx.mon-abri-de-jardin.com
 +.xuoizbtl.xyz
 +.xuojhr.mobly.com.br
++.xupalace.org
 +.xuqosdvmizko.com
 +.xuqza.com
 +.xushenghb.com
@@ -136687,7 +136688,6 @@
 +.zeroredirect5.com
 +.zeroredirect8.com
 +.zerostats.com
-+.zerowasteinitiative.com
 +.zerw.org
 +.zeryt111.fun
 +.zesep.com

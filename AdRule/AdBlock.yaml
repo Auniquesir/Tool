@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
 # 规则数量: 137616
-# 更新时间: 2024-12-14 08:45:44
+# 更新时间: 2024-12-14 20:16:06
 
 no_resolve: true
 domain_suffix_set:
@@ -29131,7 +29131,6 @@ domain_suffix_set:
 - content-cooperation.com
 - content-datacenter.hello.global.ntt
 - content-garden.com
-- content-loader.com
 - content-rec.com
 - content-square.net
 - content.4teamwork.ch
@@ -30480,6 +30479,7 @@ domain_suffix_set:
 - creatives1.ftimg.net
 - creativesumo.com
 - creativlonk.fr
+- creatopy-adtag-production.b-cdn.net
 - creator.zmags.com
 - creatorcherry.com
 - creatorpassenger.com
@@ -42875,7 +42875,6 @@ domain_suffix_set:
 - elon-promo.com
 - elongatedmiddle.com
 - elongives.biz
-- elonmusk2x.org
 - elonreptiloid.com
 - elonweb.org
 - elooksjustli.one
@@ -46691,6 +46690,7 @@ domain_suffix_set:
 - femalecozy.com
 - femalesunderpantstrapes.com
 - femefaih.com
+- fement.info
 - femetrics.grammarly.io
 - femin.online
 - femininetextmessageseducing.com
@@ -57654,7 +57654,6 @@ domain_suffix_set:
 - htliaproject.com
 - htm1.ch
 - htmgrl.jollyroom.no
-- html-load.com
 - html.350.com
 - html.696157.com
 - html.atm.youku.com
@@ -62655,6 +62654,7 @@ domain_suffix_set:
 - ithsiv.asiamarche.fr
 - iththinleldedallov.info
 - itienlo.top
+- itimiyo.top
 - itineraryborn.com
 - itinerarymonarchy.com
 - itineraryupper.com
@@ -82971,7 +82971,6 @@ domain_suffix_set:
 - noretia.com
 - norex-app.paihealth.no
 - norfotball.com
-- norgefotball.com
 - norgeshoes.com
 - norm0care.com
 - norma-external-collect.meizu.com
@@ -93868,6 +93867,7 @@ domain_suffix_set:
 - qm.rcaiv.com
 - qm.redbull.com
 - qm.veldtwalk.com
+- qm2.icu
 - qm92.com
 - qmaacxajsovk.com
 - qmahepzo.one
@@ -107966,6 +107966,7 @@ domain_suffix_set:
 - softwebzone.com
 - softyjahveh.shop
 - softzspot.com
+- soggy-surround.com
 - soggysponge.com
 - soggyzoo.com
 - soglaptaicmaurg.xyz
@@ -125425,7 +125426,6 @@ domain_suffix_set:
 - unifiedwfo.verintsystemsinc.com
 - unifini.de
 - uniformyeah.com
-- unifully.com
 - unifyaddition.com
 - uniguide.fr
 - unimhk.com
@@ -126163,7 +126163,6 @@ domain_suffix_set:
 - ushaqi.com
 - usheeptuthoa.com
 - usheredbruting.top
-- ushiro.org
 - ushnjobwcvpebcj.xyz
 - ushoofop.com
 - ushzfap.com
@@ -127018,6 +127017,7 @@ domain_suffix_set:
 - veeredfunt.top
 - veezudeedou.net
 - vefrou.tamaris.com
+- vegaingi.com
 - vegaschina.cn
 - vegashizoku.digital
 - vegetablesparrotplus.com
@@ -134687,6 +134687,7 @@ domain_suffix_set:
 - xunzbx.mon-abri-de-jardin.com
 - xuoizbtl.xyz
 - xuojhr.mobly.com.br
+- xupalace.org
 - xuqosdvmizko.com
 - xuqza.com
 - xushenghb.com
@@ -136689,7 +136690,6 @@ domain_suffix_set:
 - zeroredirect5.com
 - zeroredirect8.com
 - zerostats.com
-- zerowasteinitiative.com
 - zerw.org
 - zeryt111.fun
 - zesep.com
