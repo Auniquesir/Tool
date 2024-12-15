@@ -1,6 +1,6 @@
 # 规则名称: AntiAd
-# 规则数量: 137619
-# 更新时间: 2024-12-15 08:52:42
+# 规则数量: 137621
+# 更新时间: 2024-12-15 20:16:20
 
 payload:
   - '+.0.101tubeporn.com'
@@ -12023,6 +12023,7 @@ payload:
   - '+.aiejlfb.com'
   - '+.aiftakrenge.com'
   - '+.aigaithojo.com'
+  - '+.aigfednd.icu'
   - '+.aigheebsu.net'
   - '+.aiglaidra.com'
   - '+.aigneloa.com'
@@ -26150,6 +26151,7 @@ payload:
   - '+.cholo215.cn'
   - '+.cholor201015.cn'
   - '+.cholor201115.cn'
+  - '+.chonaesor.com'
   - '+.chong-wu.net'
   - '+.chongyayakk.xyz'
   - '+.choobatchautoo.net'
@@ -83398,7 +83400,6 @@ payload:
   - '+.nszeybs.com'
   - '+.nt.phpwind.com'
   - '+.ntaetj.jeulia.co.uk'
-  - '+.ntalker.com'
   - '+.ntanufxwio.com'
   - '+.ntazjh.globalhealingcenter.com'
   - '+.ntdhfhpr-o.rocks'
@@ -128990,6 +128991,7 @@ payload:
   - '+.warnwing.com'
   - '+.warofmercenarieshack.net'
   - '+.warp.ly'
+  - '+.warped-bus.com'
   - '+.warrantpiece.com'
   - '+.warriorflowsweater.com'
   - '+.warrjy.feiler.jp'

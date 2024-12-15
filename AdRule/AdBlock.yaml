@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 137620
-# 更新时间: 2024-12-15 08:52:41
+# 规则数量: 137622
+# 更新时间: 2024-12-15 20:16:19
 
 no_resolve: true
 domain_suffix_set:
@@ -12024,6 +12024,7 @@ domain_suffix_set:
 - aiejlfb.com
 - aiftakrenge.com
 - aigaithojo.com
+- aigfednd.icu
 - aigheebsu.net
 - aiglaidra.com
 - aigneloa.com
@@ -26151,6 +26152,7 @@ domain_suffix_set:
 - cholo215.cn
 - cholor201015.cn
 - cholor201115.cn
+- chonaesor.com
 - chong-wu.net
 - chongyayakk.xyz
 - choobatchautoo.net
@@ -83399,7 +83401,6 @@ domain_suffix_set:
 - nszeybs.com
 - nt.phpwind.com
 - ntaetj.jeulia.co.uk
-- ntalker.com
 - ntanufxwio.com
 - ntazjh.globalhealingcenter.com
 - ntdhfhpr-o.rocks
@@ -128991,6 +128992,7 @@ domain_suffix_set:
 - warnwing.com
 - warofmercenarieshack.net
 - warp.ly
+- warped-bus.com
 - warrantpiece.com
 - warriorflowsweater.com
 - warrjy.feiler.jp

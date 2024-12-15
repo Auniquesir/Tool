@@ -1,6 +1,6 @@
 # 规则名称: AntiAd
-# 规则数量: 137618
-# 更新时间: 2024-12-15 08:52:42
+# 规则数量: 137620
+# 更新时间: 2024-12-15 20:16:19
 
 +.0.101tubeporn.com
 +.0.code.cotsta.ru
@@ -12022,6 +12022,7 @@
 +.aiejlfb.com
 +.aiftakrenge.com
 +.aigaithojo.com
++.aigfednd.icu
 +.aigheebsu.net
 +.aiglaidra.com
 +.aigneloa.com
@@ -26149,6 +26150,7 @@
 +.cholo215.cn
 +.cholor201015.cn
 +.cholor201115.cn
++.chonaesor.com
 +.chong-wu.net
 +.chongyayakk.xyz
 +.choobatchautoo.net
@@ -83397,7 +83399,6 @@
 +.nszeybs.com
 +.nt.phpwind.com
 +.ntaetj.jeulia.co.uk
-+.ntalker.com
 +.ntanufxwio.com
 +.ntazjh.globalhealingcenter.com
 +.ntdhfhpr-o.rocks
@@ -128989,6 +128990,7 @@
 +.warnwing.com
 +.warofmercenarieshack.net
 +.warp.ly
++.warped-bus.com
 +.warrantpiece.com
 +.warriorflowsweater.com
 +.warrjy.feiler.jp
