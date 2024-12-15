@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite
-# 规则统计: 38036
+# 规则统计: 38027
 no_resolve: true
 domain_set:
 - 00-gov.cn
@@ -10148,8 +10148,6 @@ domain_set:
 - info.elba.at
 - info.iciba.com
 - info4.a7.org
-- info4.video.qq.com
-- info6.video.qq.com
 - infocollect.dk
 - infolinks.com
 - infopro-insight.com
@@ -10320,7 +10318,6 @@ domain_set:
 - iopjpldd.com
 - ioppxhhtgbydsj.com
 - iopushtech.com
-- ios.video.mpush.qq.com
 - iotechnologies.com
 - iouuorpkc.com
 - iouxtayinkmu.com
@@ -13442,7 +13439,6 @@ domain_set:
 - mto.mediatakeout.com
 - mto.multiopen.cn
 - mtoor.com
-- mtrace.qq.com
 - mtrack.nl
 - mtracking.com
 - mtrcss.com
@@ -17206,7 +17202,6 @@ domain_set:
 - rpqknedxr.com
 - rprgn.cn
 - rprgsptwx.com
-- rpt.gdt.qq.com
 - rpt.hpplay.cn
 - rpts.org
 - rpuuwsjcu.com
@@ -25940,7 +25935,6 @@ domain_suffix_set:
 - api.nobeta.com.br
 - api.open.uc.cn
 - api.pingstart.com
-- api.poll.video.qq.com
 - api.primecaster.net
 - api.push.le.com
 - api.ra2.xlmc.sec.miui.com
@@ -34793,7 +34787,6 @@ domain_suffix_set:
 - stat.zuimeitianqi.com
 - stat4.edev.at
 - statcounter.com
-- static-res.qq.com
 - static-s.iqiyi.com
 - static-ssp.yidianzixun.com
 - static-xl9-ssl.xunlei.com
@@ -35266,7 +35259,6 @@ domain_suffix_set:
 - testin.cn
 - testplus.cn
 - testself.vip
-- tetrack.qq.com
 - textlink.simba.taobao.com
 - tf.caohua.com
 - tf.hftaili.com
@@ -35452,7 +35444,6 @@ domain_suffix_set:
 - tpa7.iahorro.com
 - tpe163.com
 - tplpages.com
-- tpns.tencent.com
 - tpush.html5.qq.com
 - tr.connatix.com
 - tr.interlake.net

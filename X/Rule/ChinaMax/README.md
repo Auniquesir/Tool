@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2024-12-15 02:13:27
+最后更新时间：2024-12-16 02:13:30
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 426  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 97665  | 
+| DOMAIN-SUFFIX | 97572  | 
 | DOMAIN-WILDCARD | 1  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8354  | 
-| IP-CIDR6 | 12653  | 
+| IP-CIDR | 8356  | 
+| IP-CIDR6 | 12654  | 
 | USER-AGENT(X支持) | 65  | 
-| TOTAL(仅供参考) | 119178  | 
+| TOTAL(仅供参考) | 119088  | 
 
 
 ## X 

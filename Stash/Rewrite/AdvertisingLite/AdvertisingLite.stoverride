@@ -1,8 +1,8 @@
 # 规则名称: AdvertisingLite.stoverride
-# 规则统计: 2072
+# 规则统计: 2068
 
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-12-15 02:16:18
+desc: 最后更新时间 2024-12-16 02:16:17
 http:
   rewrite:
     - ^http:\/\/apicloud\.zol\.com\.cn\/Article\/WapLaunchLogo - reject
@@ -195,8 +195,6 @@ http:
     - ^https?:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch\?appkey=23782110 - reject
     - ^https?:\/\/ams-cdn\.cdtft\.cn\/prod\/tft-ams\/ - reject
     - ^https?:\/\/ap\.dongqiudi\.com\/plat\/v - reject
-    - ^https?:\/\/apd-\w+\.v\.smtcdns\.com\/(defaultts|omts|vmind\.qqvideo)\.tc\.qq\.com\/\w+ - reject
-    - ^https?:\/\/apd-vlive\.apdcdn\.tc\.qq\.com\/vmind\.qqvideo\.tc\.qq\.com\/\w+ - reject
     - ^https?:\/\/api-ac\.liepin\.com\/api\/com\.liepin\.cyclops\.live\.get-ad-cards - reject
     - ^https?:\/\/api-access\.pangolin-sdk-toutiao\.com\/api\/ad\/union\/sdk\/get_ads - reject
     - ^https?:\/\/api-ad-product\.huxiu\.com\/Api\/Product\/SDK\/Advert\/Query\/queryAdvertListInfo - reject
@@ -1253,8 +1251,6 @@ http:
     - "amdc.m.taobao.com"
     - "ams-cdn.cdtft.cn"
     - "ap.dongqiudi.com"
-    - "apd-*.v.smtcdns.com"
-    - "apd-vlive.apdcdn.tc.qq.com"
     - "api*.futunn.com"
     - "api*.musical.ly"
     - "api*.sparke.cn"

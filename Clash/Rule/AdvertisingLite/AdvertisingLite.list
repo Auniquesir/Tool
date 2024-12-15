@@ -1,5 +1,5 @@
 # 规则名称: AdvertisingLite
-# 规则统计: 38036
+# 规则统计: 38027
 
 DOMAIN,00-gov.cn
 DOMAIN,0024aadd.com
@@ -10147,8 +10147,6 @@ DOMAIN,influid.co
 DOMAIN,info.elba.at
 DOMAIN,info.iciba.com
 DOMAIN,info4.a7.org
-DOMAIN,info4.video.qq.com
-DOMAIN,info6.video.qq.com
 DOMAIN,infocollect.dk
 DOMAIN,infolinks.com
 DOMAIN,infopro-insight.com
@@ -10319,7 +10317,6 @@ DOMAIN,ionmvdpifz.com
 DOMAIN,iopjpldd.com
 DOMAIN,ioppxhhtgbydsj.com
 DOMAIN,iopushtech.com
-DOMAIN,ios.video.mpush.qq.com
 DOMAIN,iotechnologies.com
 DOMAIN,iouuorpkc.com
 DOMAIN,iouxtayinkmu.com
@@ -13441,7 +13438,6 @@ DOMAIN,mtnreztslx.com
 DOMAIN,mto.mediatakeout.com
 DOMAIN,mto.multiopen.cn
 DOMAIN,mtoor.com
-DOMAIN,mtrace.qq.com
 DOMAIN,mtrack.nl
 DOMAIN,mtracking.com
 DOMAIN,mtrcss.com
@@ -17205,7 +17201,6 @@ DOMAIN,rpnhxhzcejyiym.com
 DOMAIN,rpqknedxr.com
 DOMAIN,rprgn.cn
 DOMAIN,rprgsptwx.com
-DOMAIN,rpt.gdt.qq.com
 DOMAIN,rpt.hpplay.cn
 DOMAIN,rpts.org
 DOMAIN,rpuuwsjcu.com
@@ -25938,7 +25933,6 @@ DOMAIN-SUFFIX,api.newbelden.com
 DOMAIN-SUFFIX,api.nobeta.com.br
 DOMAIN-SUFFIX,api.open.uc.cn
 DOMAIN-SUFFIX,api.pingstart.com
-DOMAIN-SUFFIX,api.poll.video.qq.com
 DOMAIN-SUFFIX,api.primecaster.net
 DOMAIN-SUFFIX,api.push.le.com
 DOMAIN-SUFFIX,api.ra2.xlmc.sec.miui.com
@@ -34791,7 +34785,6 @@ DOMAIN-SUFFIX,stat.youku.com
 DOMAIN-SUFFIX,stat.zuimeitianqi.com
 DOMAIN-SUFFIX,stat4.edev.at
 DOMAIN-SUFFIX,statcounter.com
-DOMAIN-SUFFIX,static-res.qq.com
 DOMAIN-SUFFIX,static-s.iqiyi.com
 DOMAIN-SUFFIX,static-ssp.yidianzixun.com
 DOMAIN-SUFFIX,static-xl9-ssl.xunlei.com
@@ -35264,7 +35257,6 @@ DOMAIN-SUFFIX,testcddc.atclouddev.net
 DOMAIN-SUFFIX,testin.cn
 DOMAIN-SUFFIX,testplus.cn
 DOMAIN-SUFFIX,testself.vip
-DOMAIN-SUFFIX,tetrack.qq.com
 DOMAIN-SUFFIX,textlink.simba.taobao.com
 DOMAIN-SUFFIX,tf.caohua.com
 DOMAIN-SUFFIX,tf.hftaili.com
@@ -35450,7 +35442,6 @@ DOMAIN-SUFFIX,tp74ym.cn
 DOMAIN-SUFFIX,tpa7.iahorro.com
 DOMAIN-SUFFIX,tpe163.com
 DOMAIN-SUFFIX,tplpages.com
-DOMAIN-SUFFIX,tpns.tencent.com
 DOMAIN-SUFFIX,tpush.html5.qq.com
 DOMAIN-SUFFIX,tr.connatix.com
 DOMAIN-SUFFIX,tr.interlake.net

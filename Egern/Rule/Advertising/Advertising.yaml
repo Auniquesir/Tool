@@ -1,5 +1,5 @@
 # 规则名称: Advertising
-# 规则统计: 155792
+# 规则统计: 155796
 no_resolve: true
 domain_set:
 - 03.lzzncm.com
@@ -1400,6 +1400,7 @@ domain_set:
 - guangyukeji.com
 - guanjia.qq.com
 - guardianapps.co.uk
+- guid.tpns.tencent.com
 - guowaidiaocha.com
 - gvod.aiseejapp.atianqi.com
 - gvsivx.multinet.com.tr
@@ -17887,6 +17888,7 @@ domain_suffix_set:
 - 3j8c56p9.de
 - 3jia5.com
 - 3kbktygzr5.ru
+- 3lo.icu
 - 3lr67y45.com
 - 3lucosy.com
 - 3mfm7jef91.ru
@@ -59225,6 +59227,7 @@ domain_suffix_set:
 - jozbun.icu
 - jozvmvxi.com
 - jp-microsoft-store.com
+- jp1media.com
 - jpalertcert.com
 - jpav.date
 - jpayu6di.icu
@@ -59444,6 +59447,7 @@ domain_suffix_set:
 - jtdqxsfzi.com
 - jtezxmpb.xyz
 - jtienla.top
+- jtimiya.top
 - jtjsmp.top
 - jtjtqar.com
 - jtkjixnmj.org
@@ -63779,6 +63783,7 @@ domain_suffix_set:
 - log.tinnhanhchungkhoan.vn
 - log.tinxe.vn
 - log.tpns.gz2.tencent.com
+- log.tpns.tencent.com
 - log.tv.zing.vn
 - log.tv360.vn
 - log.vava.com
@@ -99659,6 +99664,7 @@ domain_suffix_set:
 - vefun.net
 - vefxjjkrhf.com
 - vegabet.net
+- vegaingi.com
 - veganswingbow.com
 - vegashizoku.digital
 - vegetablesparrotplus.com
@@ -101747,6 +101753,7 @@ domain_suffix_set:
 - vyreat.icu
 - vyriglq.cn
 - vyrpoe.cn
+- vyrqhmdy.unbrws.de
 - vytans.com
 - vywoxptqyqgex.com
 - vyxoeu.xyz
@@ -105883,6 +105890,7 @@ domain_suffix_set:
 - xunyibaike.com
 - xuoizbtl.xyz
 - xuosvih.com
+- xupalace.org
 - xuqarnasvru.com
 - xuqza.com
 - xuruochen.cn
@@ -110227,7 +110235,6 @@ domain_suffix_set:
 - api.newbelden.com
 - api.open.uc.cn
 - api.pingstart.com
-- api.poll.video.qq.com
 - api.primecaster.net
 - api.push.le.com
 - api.ra2.xlmc.sec.miui.com
@@ -118648,7 +118655,6 @@ domain_suffix_set:
 - stat.zuimeitianqi.com
 - stat4.edev.at
 - statcounter.com
-- static-res.qq.com
 - static-s.iqiyi.com
 - static-xl9-ssl.xunlei.com
 - static.app.m.letv.com
@@ -119060,7 +119066,6 @@ domain_suffix_set:
 - testin.cn
 - testplus.cn
 - testself.vip
-- tetrack.qq.com
 - textlink.simba.taobao.com
 - tf.caohua.com
 - tf.hftaili.com
@@ -119240,7 +119245,6 @@ domain_suffix_set:
 - tpa7.iahorro.com
 - tpe163.com
 - tplpages.com
-- tpns.tencent.com
 - tpush.html5.qq.com
 - tr.interlake.net
 - tr.werkenntwen.de
