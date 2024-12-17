@@ -1,5 +1,5 @@
 # 规则名称: Discord_No_Resolve
-# 规则统计: 29
+# 规则统计: 30
 
 payload:
   - DOMAIN-SUFFIX,airhorn.solutions
@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,bigbeans.solutions
   - DOMAIN-SUFFIX,dis.gd
   - DOMAIN-SUFFIX,discord-activities.com
+  - DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
   - DOMAIN-SUFFIX,discord.co
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,discord.design

@@ -1,5 +1,5 @@
 # 规则名称: Developer.list
-# 规则统计: 66
+# 规则统计: 70
 
 HOST-SUFFIX,apple-cloudkit.com,Developer
 HOST-SUFFIX,apple-mapkit.com,Developer
@@ -12,6 +12,7 @@ HOST-SUFFIX,carekit.org,Developer
 HOST-SUFFIX,courier-push-apple.com.akadns.net,Developer
 HOST-SUFFIX,cups.org,Developer
 HOST-SUFFIX,developer.apple.com,Developer
+HOST-SUFFIX,developerservices2.apple.com,Developer
 HOST-SUFFIX,devimages-cdn.apple.com,Developer
 HOST-SUFFIX,devstreaming-cdn.apple.com,Developer
 HOST-SUFFIX,foundationdb.org,Developer
@@ -19,6 +20,8 @@ HOST-SUFFIX,macosforge.org,Developer
 HOST-SUFFIX,macruby.com,Developer
 HOST-SUFFIX,macruby.net,Developer
 HOST-SUFFIX,macruby.org,Developer
+HOST-SUFFIX,notary-submissions-prod.s3-accelerate.amazonaws.com,Developer
+HOST-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com,Developer
 HOST-SUFFIX,p-events-delivery.akamaized.net,Developer
 HOST-SUFFIX,playgrounds-cdn.apple.com,Developer
 HOST-SUFFIX,push-apple.com.akadns.net,Developer
@@ -33,6 +36,7 @@ HOST-SUFFIX,servicetalk.io,Developer
 HOST-SUFFIX,swift.org,Developer
 HOST-SUFFIX,swiftui.cn,Developer
 HOST-SUFFIX,swiftui.com.cn,Developer
+HOST-SUFFIX,timestamp.apple.com,Developer
 HOST-SUFFIX,webkit.org,Developer
 HOST-SUFFIX,webkitgtk.org,Developer
 HOST-SUFFIX,webobjects.com,Developer
