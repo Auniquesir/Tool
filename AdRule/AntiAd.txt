@@ -1,6 +1,6 @@
 # 规则名称: AntiAd
-# 规则数量: 137826
-# 更新时间: 2024-12-18 20:17:49
+# 规则数量: 137849
+# 更新时间: 2024-12-19 08:46:06
 
 +.0.101tubeporn.com
 +.0.code.cotsta.ru
@@ -2252,6 +2252,7 @@
 +.4ufiles.com
 +.4vgyjja.cn
 +.4wad.com
++.4we.icu
 +.4wfe3.icu
 +.4wnet.com
 +.4wnetwork.com
@@ -2551,6 +2552,7 @@
 +.5g-update.com
 +.5gg17gm.com
 +.5ggj5cp.com
++.5gtower.in
 +.5gxs.org
 +.5h3oyhv838.com
 +.5iaox.xyz
@@ -6572,6 +6574,7 @@
 +.acconsento.click
 +.accordancespotted.com
 +.accordinglyair.com
++.account-cfe.mx
 +.account-review.com
 +.accountancy.bppeloqua.com
 +.accountantpacketassail.com
@@ -12172,7 +12175,6 @@
 +.airbornefrench.com
 +.airborneold.com
 +.airbrake.io
-+.aircgd.shop
 +.airconditionpianoembarrassment.com
 +.aircraftairliner.com
 +.aircraftreign.com
@@ -22761,6 +22763,7 @@
 +.bsyauqwerd.party
 +.bsytzb.hago.kr
 +.bt.allotshyoides.com
++.bt.dns-finder.com
 +.bt.mediaimpact.de
 +.bt.whopstriglot.com
 +.bt.xitongmonitor.com
@@ -23222,7 +23225,6 @@
 +.buzzads.com
 +.buzzard.donotresearch.net
 +.buzzardcraizey.com
-+.buzzazone.com
 +.buzzcity.net
 +.buzzdancing.com
 +.buzzdeck.com
@@ -24576,6 +24578,7 @@
 +.catiligh.ru
 +.catracking.cubiq.com
 +.catracking.finning.com
++.catransfer.info
 +.cats-crash-hack.info
 +.cats.d20.rs
 +.catscase.com
@@ -25358,6 +25361,7 @@
 +.cee2.iteye.com
 +.ceebethoatha.com
 +.ceebikoph.com
++.ceefsyqotuagk.com
 +.ceegriwuwoa.net
 +.ceeheesa.com
 +.ceekougy.net
@@ -28387,6 +28391,7 @@
 +.combustibleaccuracy.com
 +.comcastbiz.com
 +.comclick.com
++.comdinew.com
 +.come-get-s0me.com
 +.come-get-s0me.net
 +.comeadvertisewithus.com
@@ -33848,7 +33853,6 @@
 +.data-3c91d46d9d.weka-fachmedien.de
 +.data-3ca7289259.rtlradio.de
 +.data-3cb5515026.harpersbazaar.de
-+.data-3cd8fb3825.kicker.de
 +.data-3d30b366ad.cavallo.de
 +.data-3d30b366ad.elektrobike-online.com
 +.data-3d30b366ad.mountainbike-magazin.de
@@ -35431,7 +35435,6 @@
 +.data-e623de9fda.finanzen100.de
 +.data-e623de9fda.focus.de
 +.data-e627e4d475.filmstarts.de
-+.data-e69b3d32a9.kicker.de
 +.data-e723f0d7d1.stylebook.de
 +.data-e7308988a6.freundin.de
 +.data-e77e5e75f4.apps.iocnt.de
@@ -39825,6 +39828,7 @@
 +.download-hack.org
 +.download-hacks.us
 +.download-minecraft.ru
++.download-privacybear.com
 +.download-ready.net
 +.download-shares.com
 +.download-staging.planify.io
@@ -42446,6 +42450,7 @@
 +.ee.zowmgxpz.cn
 +.ee.zq13n.cn
 +.ee035.cn
++.ee5.icu
 +.ee625e4b1d.com
 +.ee768d2e27.0f9be2e1ef.com
 +.ee93.pandasuite.io
@@ -42929,6 +42934,7 @@
 +.ellingsen.cn
 +.elliotannouncing.com
 +.ellipticaldatabase.pro
++.elloisny.com
 +.ellypsio.net.jumia.com.ng
 +.elmasistatistik.com.tr
 +.elmobot.eu
@@ -42940,6 +42946,7 @@
 +.elon-promo.com
 +.elongatedmiddle.com
 +.elongives.biz
++.elonmusk2x.org
 +.elonreptiloid.com
 +.elonweb.org
 +.elooksjustli.one
@@ -43639,6 +43646,7 @@
 +.en.btc-trader-app.club
 +.en.btcprofit.we-trck.com
 +.en.ultrex.ru
++.en407etr.com
 +.enable.vertikal6.com
 +.enablement.vmware.com
 +.enablerubbingjab.com
@@ -48993,6 +49001,7 @@
 +.freedom-ca-5g.com
 +.freedom.service-update3.com
 +.freedomadnetwork.com
++.freedomgift50.com
 +.freedominfo.net
 +.freedomofsoftware.com
 +.freedomsaved.com
@@ -53357,7 +53366,6 @@
 +.godroonrefrig.com
 +.godsamongus.console2pc.info
 +.godseedband.com
-+.godsfillingstation.org
 +.godspeaks.net
 +.goe.edm.globalsources.com
 +.goeducklactase.com
@@ -57997,7 +58005,6 @@
 +.huomob.com
 +.huoxingtan66.com
 +.huoxun.wang
-+.hupiru.uno
 +.huppontic.com
 +.hupu-nba.com
 +.hupuzhibo.cn
@@ -58555,6 +58562,7 @@
 +.iccjkn.icu
 +.icdirect.com
 +.icdxc.com
++.iceao.shop
 +.icebergindigo.com
 +.icebns.com
 +.icecars.com
@@ -64804,6 +64812,7 @@
 +.justdating.online
 +.justdeckshamilton.ca
 +.justdrop.store
++.justdy.shop
 +.justey.com
 +.justgetitfaster.com
 +.justicejudo.com
@@ -65935,6 +65944,7 @@
 +.kliqz.com
 +.klixfeed.com
 +.klixfiles.com
++.kljhsanvj.com
 +.kljslku.com
 +.klk.jdflower.cn
 +.klkk66.fun
@@ -66334,6 +66344,7 @@
 +.krebsonsecurity.top
 +.kredit-rupiah.com
 +.krediteksklusif.com
++.kreditmudah.shop
 +.kreisis.top
 +.krgoad.mauboussin.fr
 +.krgtzg.t-nation.com
@@ -67379,6 +67390,7 @@
 +.ldjcteyoq.com
 +.ldjhlqr.cn
 +.ldjudcpc-qxm.icu
++.ldjyvegage.com
 +.ldk.ruiyufangchan.cn
 +.ldlwdsx.com
 +.ldmeukeuktyoue.com
@@ -67650,6 +67662,7 @@
 +.leechiza.net
 +.leefosto.com
 +.leegaroo.xyz
++.leegreemula.net
 +.leeleo.top
 +.leelynx.fr
 +.leepephah.com
@@ -68273,6 +68286,7 @@
 +.link-booster.de
 +.link-ccontact.focuscura.com
 +.link-crawler.com
++.link-dana-kagett.rilx.me
 +.link-debug.killi.io
 +.link-dev.fandompay.com
 +.link-dev.gem.co
@@ -81545,7 +81559,6 @@
 +.navi38.ru
 +.navi39.ru
 +.navi4.com
-+.navi42.ru
 +.navi45.ru
 +.navi5.com
 +.navi50.com
@@ -81555,6 +81568,7 @@
 +.navi58.com
 +.navi59.ru
 +.navi6.com
++.navi63.ru
 +.navi65.com
 +.navi66.ru
 +.navi7.com
@@ -82070,7 +82084,6 @@
 +.new-new-years.com
 +.new-programmatic.com
 +.new-twinks.com
-+.new.bestageoffers22.com
 +.new.lerian-nti.be
 +.new.searchadsw.top
 +.new.taobc.com
@@ -86384,6 +86397,7 @@
 +.othisf.tagomago.pl
 +.othstr.play.aiseet.atianqi.com
 +.otienlk.top
++.otimiyk.top
 +.otingolston.com
 +.otisephie.com
 +.otisxx.sullyn.com
@@ -89437,7 +89451,6 @@
 +.physicaldividedcharter.com
 +.physicallyshillingattentions.com
 +.physicalnecessitymonth.com
-+.physiotherapyindhaka.com
 +.physiquefourth.com
 +.phywi.org
 +.phywifupta.com
@@ -90744,6 +90757,7 @@
 +.poeticpackage.com
 +.poetrydeteriorate.com
 +.poeze.xyz
++.pofbpx.icu
 +.poflix.com
 +.pofmnj.xyz
 +.poghaurs.com
@@ -91319,6 +91333,7 @@
 +.pphqq.com
 +.pphwrevr.com
 +.ppimdog.com
++.ppio12181ios.top
 +.ppixufsalgm.com
 +.ppjdfki.com
 +.ppjqgbz.com
@@ -100440,6 +100455,7 @@
 +.scjpqut.cn
 +.sckxod.apostrophes.kr
 +.sckxppzdm.com
++.sckyf.com
 +.scl-hacks.com
 +.scl6gc5l.site
 +.sclick.6rooms.com
@@ -103669,6 +103685,7 @@
 +.skfda5.com
 +.skfj5d.com
 +.skfjd1.xyz
++.skhmjezzj.com
 +.ski1.skiset.com
 +.skidfqh.xyz
 +.skidgleambrand.com
@@ -112822,6 +112839,7 @@
 +.stonechin.com
 +.stoned-skins.fun
 +.stongoapti.net
++.stongors.com
 +.stonkstime.com
 +.stooboastaud.net
 +.stoobsugree.net
@@ -116713,6 +116731,7 @@
 +.teslaamg.obs.cn-east-3.myhuaweicloud.com
 +.teslafond.io
 +.teslaicrypto.com
++.teslalnc.org
 +.teslamaked.com
 +.tesopportunites.fr
 +.tesousefulhead.info
@@ -126453,6 +126472,7 @@
 +.utillib.xyz
 +.utils.mediageneral.net
 +.utimg.ru
++.utimiyt.top
 +.utiq-aws.net
 +.utiq.24auto.de
 +.utiq.24hamburg.de
@@ -130651,6 +130671,7 @@
 +.whxhhjx.com
 +.why.hdvest.com
 +.why3.inseec.education
++.whyareyouherewho.ru
 +.whyl-laz-i-264.site
 +.whysoserius.cl
 +.whysoserius.club
@@ -131469,6 +131490,7 @@
 +.worstgoodnightrumble.com
 +.worstideatum.com
 +.worstspotchafe.com
++.worthas.shop
 +.worthathousandwords.com
 +.worthlessanxiety.pro
 +.worthlesspattern.com
@@ -136601,6 +136623,7 @@
 +.zabanit.xyz
 +.zabavazaodrasle.com
 +.zabpbhko.com
++.zabpgtjh.icu
 +.zacff.com
 +.zachunsears.com
 +.zacleporis.com
