@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 137851
-# 更新时间: 2024-12-19 08:46:06
+# 规则数量: 137850
+# 更新时间: 2024-12-19 20:17:55
 
 no_resolve: true
 domain_suffix_set:
@@ -16095,6 +16095,7 @@ domain_suffix_set:
 - app.umassathletics.com
 - app.umterps.com
 - app.und.com
+- app.uniwspapp.com
 - app.unlockar.com
 - app.unlvrebels.com
 - app.update.lenovo.com
@@ -24580,7 +24581,6 @@ domain_suffix_set:
 - catiligh.ru
 - catracking.cubiq.com
 - catracking.finning.com
-- catransfer.info
 - cats-crash-hack.info
 - cats.d20.rs
 - catscase.com
@@ -42948,7 +42948,6 @@ domain_suffix_set:
 - elon-promo.com
 - elongatedmiddle.com
 - elongives.biz
-- elonmusk2x.org
 - elonreptiloid.com
 - elonweb.org
 - elooksjustli.one
@@ -49003,7 +49002,6 @@ domain_suffix_set:
 - freedom-ca-5g.com
 - freedom.service-update3.com
 - freedomadnetwork.com
-- freedomgift50.com
 - freedominfo.net
 - freedomofsoftware.com
 - freedomsaved.com
@@ -49426,6 +49424,7 @@ domain_suffix_set:
 - friday89.com
 - fridayaffectionately.com
 - fridayarched.com
+- fridaylocalmanager.duckdns.org
 - fridaypatnod.com
 - fridaywake.com
 - fridero.ru
@@ -58564,7 +58563,6 @@ domain_suffix_set:
 - iccjkn.icu
 - icdirect.com
 - icdxc.com
-- iceao.shop
 - icebergindigo.com
 - icebns.com
 - icecars.com
@@ -64814,7 +64812,6 @@ domain_suffix_set:
 - justdating.online
 - justdeckshamilton.ca
 - justdrop.store
-- justdy.shop
 - justey.com
 - justgetitfaster.com
 - justicejudo.com
@@ -66346,7 +66343,6 @@ domain_suffix_set:
 - krebsonsecurity.top
 - kredit-rupiah.com
 - krediteksklusif.com
-- kreditmudah.shop
 - kreisis.top
 - krgoad.mauboussin.fr
 - krgtzg.t-nation.com
@@ -68288,7 +68284,6 @@ domain_suffix_set:
 - link-booster.de
 - link-ccontact.focuscura.com
 - link-crawler.com
-- link-dana-kagett.rilx.me
 - link-debug.killi.io
 - link-dev.fandompay.com
 - link-dev.gem.co
@@ -81537,6 +81532,7 @@ domain_suffix_set:
 - navfja.answear.hu
 - navi.gd.chinamobile.com
 - navi1.com
+- navi1.ru
 - navi10.com
 - navi10.ru
 - navi100.com
@@ -81561,6 +81557,7 @@ domain_suffix_set:
 - navi38.ru
 - navi39.ru
 - navi4.com
+- navi4.ru
 - navi45.ru
 - navi5.com
 - navi50.com
@@ -81570,6 +81567,7 @@ domain_suffix_set:
 - navi58.com
 - navi59.ru
 - navi6.com
+- navi61.ru
 - navi63.ru
 - navi65.com
 - navi66.ru
@@ -81579,6 +81577,7 @@ domain_suffix_set:
 - navi77.com
 - navi78.ru
 - navi8.com
+- navi83.ru
 - navi86.ru
 - navi88.com
 - navi99.com
@@ -82072,6 +82071,7 @@ domain_suffix_set:
 - neutralpages.com
 - neutralturbulentassist.com
 - neuwiti.com
+- nevaon.com
 - nevbbl.com
 - never.ovh
 - never2never.com
@@ -87579,6 +87579,7 @@ domain_suffix_set:
 - papoto.com
 - pappagallu.onefootball.com
 - paqqlk.motatos.de
+- paquet1nfopabox.com
 - paquetsuivi7noti.com
 - par02p.wns.windows.com
 - parachutecourtyardgrid.com
@@ -104211,6 +104212,7 @@ domain_suffix_set:
 - smartology.co
 - smartpicrotation.com
 - smartpower4all.org
+- smartproduct.site
 - smartracker.net
 - smartredirect.de
 - smartsavings.click
@@ -116733,7 +116735,6 @@ domain_suffix_set:
 - teslaamg.obs.cn-east-3.myhuaweicloud.com
 - teslafond.io
 - teslaicrypto.com
-- teslalnc.org
 - teslamaked.com
 - tesopportunites.fr
 - tesousefulhead.info
@@ -130673,7 +130674,6 @@ domain_suffix_set:
 - whxhhjx.com
 - why.hdvest.com
 - why3.inseec.education
-- whyareyouherewho.ru
 - whyl-laz-i-264.site
 - whysoserius.cl
 - whysoserius.club
@@ -131492,7 +131492,6 @@ domain_suffix_set:
 - worstgoodnightrumble.com
 - worstideatum.com
 - worstspotchafe.com
-- worthas.shop
 - worthathousandwords.com
 - worthlessanxiety.pro
 - worthlesspattern.com
