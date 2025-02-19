@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6643
+# 规则统计: 6646
 no_resolve: true
 domain_set:
 - api.msn.com
@@ -120,6 +120,7 @@ domain_suffix_set:
 - 5i01.com
 - 5isotoi5.org
 - 5maodang.com
+- 611study.icu
 - 63i.com
 - 64museum.org
 - 64tianwang.com
@@ -3894,6 +3895,7 @@ domain_suffix_set:
 - newlandmagazine.com.au
 - newmitbbs.com
 - newnews.ca
+- news1.kr
 - news100.com.tw
 - newsancai.com
 - newsblur.com
@@ -4296,6 +4298,7 @@ domain_suffix_set:
 - picjs.xyz
 - picturedip.com
 - picturesocial.com
+- picuki.com
 - pigav.com
 - pimg.tw
 - pin-cong.com

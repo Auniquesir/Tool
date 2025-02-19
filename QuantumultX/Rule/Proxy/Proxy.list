@@ -1,5 +1,5 @@
 # 规则名称: Proxy.list
-# 规则统计: 6651
+# 规则统计: 6654
 
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
@@ -118,6 +118,7 @@ HOST-SUFFIX,5aimiku.com,Proxy
 HOST-SUFFIX,5i01.com,Proxy
 HOST-SUFFIX,5isotoi5.org,Proxy
 HOST-SUFFIX,5maodang.com,Proxy
+HOST-SUFFIX,611study.icu,Proxy
 HOST-SUFFIX,63i.com,Proxy
 HOST-SUFFIX,64museum.org,Proxy
 HOST-SUFFIX,64tianwang.com,Proxy
@@ -3892,6 +3893,7 @@ HOST-SUFFIX,newipnow.com,Proxy
 HOST-SUFFIX,newlandmagazine.com.au,Proxy
 HOST-SUFFIX,newmitbbs.com,Proxy
 HOST-SUFFIX,newnews.ca,Proxy
+HOST-SUFFIX,news1.kr,Proxy
 HOST-SUFFIX,news100.com.tw,Proxy
 HOST-SUFFIX,newsancai.com,Proxy
 HOST-SUFFIX,newsblur.com,Proxy
@@ -4294,6 +4296,7 @@ HOST-SUFFIX,picidae.net,Proxy
 HOST-SUFFIX,picjs.xyz,Proxy
 HOST-SUFFIX,picturedip.com,Proxy
 HOST-SUFFIX,picturesocial.com,Proxy
+HOST-SUFFIX,picuki.com,Proxy
 HOST-SUFFIX,pigav.com,Proxy
 HOST-SUFFIX,pimg.tw,Proxy
 HOST-SUFFIX,pin-cong.com,Proxy

@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain_For_Clash
-# 规则统计: 6062
+# 规则统计: 6065
 
 api.waqi.info
 aqi.aqicn.org
@@ -109,6 +109,7 @@ voice.telephony.goog
 +.5i01.com
 +.5isotoi5.org
 +.5maodang.com
++.611study.icu
 +.63i.com
 +.64museum.org
 +.64tianwang.com
@@ -3520,6 +3521,7 @@ voice.telephony.goog
 +.newlandmagazine.com.au
 +.newmitbbs.com
 +.newnews.ca
++.news1.kr
 +.news100.com.tw
 +.newsancai.com
 +.newsblur.com
@@ -3915,6 +3917,7 @@ voice.telephony.goog
 +.picjs.xyz
 +.picturedip.com
 +.picturesocial.com
++.picuki.com
 +.pigav.com
 +.pimg.tw
 +.pin-cong.com

@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30983
+# 规则统计: 30986
 
 payload:
   - 'adobeereg.com'
@@ -25049,6 +25049,7 @@ payload:
   - '+.5i01.com'
   - '+.5isotoi5.org'
   - '+.5maodang.com'
+  - '+.611study.icu'
   - '+.63i.com'
   - '+.64museum.org'
   - '+.64tianwang.com'
@@ -28445,6 +28446,7 @@ payload:
   - '+.newlandmagazine.com.au'
   - '+.newmitbbs.com'
   - '+.newnews.ca'
+  - '+.news1.kr'
   - '+.news100.com.tw'
   - '+.newsancai.com'
   - '+.newsblur.com'
@@ -28840,6 +28842,7 @@ payload:
   - '+.picjs.xyz'
   - '+.picturedip.com'
   - '+.picturesocial.com'
+  - '+.picuki.com'
   - '+.pigav.com'
   - '+.pimg.tw'
   - '+.pin-cong.com'

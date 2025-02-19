@@ -1,5 +1,5 @@
 # 规则名称: Global.list
-# 规则统计: 31663
+# 规则统计: 31666
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -25085,6 +25085,7 @@ HOST-SUFFIX,5aimiku.com,Global
 HOST-SUFFIX,5i01.com,Global
 HOST-SUFFIX,5isotoi5.org,Global
 HOST-SUFFIX,5maodang.com,Global
+HOST-SUFFIX,611study.icu,Global
 HOST-SUFFIX,63i.com,Global
 HOST-SUFFIX,64museum.org,Global
 HOST-SUFFIX,64tianwang.com,Global
@@ -28842,6 +28843,7 @@ HOST-SUFFIX,newipnow.com,Global
 HOST-SUFFIX,newlandmagazine.com.au,Global
 HOST-SUFFIX,newmitbbs.com,Global
 HOST-SUFFIX,newnews.ca,Global
+HOST-SUFFIX,news1.kr,Global
 HOST-SUFFIX,news100.com.tw,Global
 HOST-SUFFIX,newsancai.com,Global
 HOST-SUFFIX,newsblur.com,Global
@@ -29244,6 +29246,7 @@ HOST-SUFFIX,picidae.net,Global
 HOST-SUFFIX,picjs.xyz,Global
 HOST-SUFFIX,picturedip.com,Global
 HOST-SUFFIX,picturesocial.com,Global
+HOST-SUFFIX,picuki.com,Global
 HOST-SUFFIX,pigav.com,Global
 HOST-SUFFIX,pimg.tw,Global
 HOST-SUFFIX,pin-cong.com,Global
