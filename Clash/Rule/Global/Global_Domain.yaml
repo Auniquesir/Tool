@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30986
+# 规则统计: 30987
 
 payload:
   - 'adobeereg.com'
@@ -10540,6 +10540,7 @@ payload:
   - '+.hentaivn.de'
   - '+.hentaivn.la'
   - '+.hentaivn.net'
+  - '+.hentaivox.com'
   - '+.hentaivvz.com'
   - '+.hentaiworld.eu'
   - '+.hentaiworld.tv'

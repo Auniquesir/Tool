@@ -1,5 +1,5 @@
 # 规则名称: Global_Classical_No_Resolve
-# 规则统计: 31139
+# 规则统计: 31140
 
 payload:
   - DOMAIN,adobeereg.com
@@ -10540,6 +10540,7 @@ payload:
   - DOMAIN-SUFFIX,hentaivn.de
   - DOMAIN-SUFFIX,hentaivn.la
   - DOMAIN-SUFFIX,hentaivn.net
+  - DOMAIN-SUFFIX,hentaivox.com
   - DOMAIN-SUFFIX,hentaivvz.com
   - DOMAIN-SUFFIX,hentaiworld.eu
   - DOMAIN-SUFFIX,hentaiworld.tv

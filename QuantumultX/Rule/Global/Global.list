@@ -1,5 +1,5 @@
 # 规则名称: Global.list
-# 规则统计: 31666
+# 规则统计: 31667
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -10655,6 +10655,7 @@ HOST-SUFFIX,hentaivideos.net,Global
 HOST-SUFFIX,hentaivn.de,Global
 HOST-SUFFIX,hentaivn.la,Global
 HOST-SUFFIX,hentaivn.net,Global
+HOST-SUFFIX,hentaivox.com,Global
 HOST-SUFFIX,hentaivvz.com,Global
 HOST-SUFFIX,hentaiworld.eu,Global
 HOST-SUFFIX,hentaiworld.tv,Global

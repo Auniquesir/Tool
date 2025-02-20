@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 30985
+# 规则统计: 30986
 
 adobeereg.com
 angle.com.tw
@@ -10539,6 +10539,7 @@ self.events.data.microsoft.com
 .hentaivn.de
 .hentaivn.la
 .hentaivn.net
+.hentaivox.com
 .hentaivvz.com
 .hentaiworld.eu
 .hentaiworld.tv

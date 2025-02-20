@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31620
+# 规则统计: 31621
 no_resolve: true
 domain_set:
 - 3dns-1.adobe.com
@@ -10657,6 +10657,7 @@ domain_suffix_set:
 - hentaivn.de
 - hentaivn.la
 - hentaivn.net
+- hentaivox.com
 - hentaivvz.com
 - hentaiworld.eu
 - hentaiworld.tv
