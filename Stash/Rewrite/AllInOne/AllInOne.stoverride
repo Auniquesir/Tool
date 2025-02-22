@@ -1,8 +1,8 @@
 # 规则名称: AllInOne.stoverride
-# 规则统计: 1680
+# 规则统计: 1682
 
 name: AllInOne
-desc: 最后更新时间 2025-02-17 02:15:05
+desc: 最后更新时间 2025-02-23 02:14:56
 rules:
   - DOMAIN,appcloud.zhihu.com,REJECT
   - DOMAIN,appcloud2.in.zhihu.com,REJECT
@@ -197,6 +197,7 @@ http:
     - ^https?:\/\/api\.club\.lenovo\.cn\/common\/open_ad - reject
     - ^https?:\/\/api\.coolapk\.com\/v6\/search\?.*type=hotSearch - reject
     - ^https?:\/\/api\.dangdang\.com\/mapi\d\/mobile\/init - reject
+    - ^https?:\/\/api\.dnurse\.com\/api\/boot\/get-latest-items - reject
     - ^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash - reject
     - ^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch - reject
     - ^https?:\/\/api\.futunn\.com\/v\d\/ad\/ - reject
@@ -1046,6 +1047,7 @@ http:
     - "api.club.lenovo.cn"
     - "api.coolapk.com"
     - "api.dangdang.com"
+    - "api.dnurse.com"
     - "api.douban.com"
     - "api.feng.com"
     - "api.gameplus.qq.com"

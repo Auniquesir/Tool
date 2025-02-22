@@ -1,8 +1,8 @@
 # 规则名称: Advertising.stoverride
-# 规则统计: 1473
+# 规则统计: 1475
 
 name: 复写去广告
-desc: 最后更新时间 2025-02-17 02:15:01
+desc: 最后更新时间 2025-02-23 02:14:51
 http:
   rewrite:
     - ^http:\/\/.*aastocks\.com\/ad\/ - reject
@@ -224,6 +224,7 @@ http:
     - ^https?:\/\/api\.club\.lenovo\.cn\/common\/open_ad - reject
     - ^https?:\/\/api\.coolapk\.com\/v6\/search\?.*type=hotSearch - reject
     - ^https?:\/\/api\.dangdang\.com\/mapi\d\/mobile\/init - reject
+    - ^https?:\/\/api\.dnurse\.com\/api\/boot\/get-latest-items - reject
     - ^https?:\/\/api\.douban\.com\/b.*\/common_ads\?.* - reject
     - ^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash - reject
     - ^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch - reject
@@ -895,6 +896,7 @@ http:
     - "api.club.lenovo.cn"
     - "api.coolapk.com"
     - "api.dangdang.com"
+    - "api.dnurse.com"
     - "api.douban.com"
     - "api.feng.com"
     - "api.gameplus.qq.com"

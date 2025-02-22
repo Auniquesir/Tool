@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 31621
+# 规则统计: 31629
 no_resolve: true
 domain_set:
 - 3dns-1.adobe.com
@@ -5653,6 +5653,7 @@ domain_suffix_set:
 - cindymovies.com
 - cinemax.com
 - cinepornogratis.com
+- cinny.in
 - cios.org
 - ciota.ac.uk
 - cirencester.ac.uk
@@ -7252,6 +7253,7 @@ domain_suffix_set:
 - drweb.com
 - drweb.fr
 - drweb.kz
+- drweb.ru
 - drweb.uz
 - dscis.ac.uk
 - dses.ac.uk
@@ -9029,6 +9031,7 @@ domain_suffix_set:
 - flowfront.com
 - flowfront.net
 - flowtype.org
+- fluffychat.im
 - fluidfxapp.com
 - fluidpreview.com
 - fluids.ac.uk
@@ -10180,6 +10183,7 @@ domain_suffix_set:
 - grids.ac.uk
 - grimsby.ac.uk
 - grimsbytec.ac.uk
+- grok.com
 - grooby.com
 - groq.com
 - groupfun.com
@@ -15965,6 +15969,8 @@ domain_suffix_set:
 - nexitally.com
 - nexitallysafe.com
 - nexitcore.com
+- nexo.com
+- nexo.io
 - nexon.co.jp
 - nexon.io
 - nexoncdn.co.kr
@@ -17613,7 +17619,9 @@ domain_suffix_set:
 - pixfs.net
 - pixhost.to
 - pixinsight.com.tw
+- pixiv-recommend.net
 - pixiv.co.jp
+- pixiv.help
 - pixiv.me
 - pixiv.org
 - pixlr-o-matic.com

@@ -1,5 +1,5 @@
 # 规则名称: PrivateTracker
-# 规则统计: 266
+# 规则统计: 267
 
 payload:
   - DOMAIN,0123456789nonexistent.com
@@ -12,6 +12,7 @@ payload:
   - DOMAIN,bt.ktrackers.com
   - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt.poletracker.org
+  - DOMAIN,bt.rer.lol
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,buny.uk
   - DOMAIN,ch3oh.ru
@@ -26,15 +27,16 @@ payload:
   - DOMAIN,fleira.no
   - DOMAIN,highteahop.top
   - DOMAIN,home.yxgz.club
+  - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,isk.richardsw.club
   - DOMAIN,ismaarino.com
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,new-line.net
   - DOMAIN,ns-1.x-fins.com
   - DOMAIN,nyaa.tracker.wf
+  - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
   - DOMAIN,open.free-tracker.ga
@@ -84,6 +86,7 @@ payload:
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.dmcomic.org
   - DOMAIN,tracker.dump.cl
+  - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.foreverpirates.co
@@ -94,7 +97,6 @@ payload:
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,tracker.kmzs123.cn
   - DOMAIN,tracker.kuroy.me
-  - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.lilithraws.org
   - DOMAIN,tracker.lintk.me
   - DOMAIN,tracker.linvk.com
@@ -121,7 +123,6 @@ payload:
   - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,tracker1.520.jp
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com

@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain_For_Clash
-# 规则统计: 30986
+# 规则统计: 30994
 
 adobeereg.com
 angle.com.tw
@@ -5277,6 +5277,7 @@ self.events.data.microsoft.com
 +.cindymovies.com
 +.cinemax.com
 +.cinepornogratis.com
++.cinny.in
 +.cios.org
 +.ciota.ac.uk
 +.cirencester.ac.uk
@@ -6883,6 +6884,7 @@ self.events.data.microsoft.com
 +.drweb.com
 +.drweb.fr
 +.drweb.kz
++.drweb.ru
 +.drweb.uz
 +.dscis.ac.uk
 +.dses.ac.uk
@@ -8678,6 +8680,7 @@ self.events.data.microsoft.com
 +.flowfront.com
 +.flowfront.net
 +.flowtype.org
++.fluffychat.im
 +.fluidfxapp.com
 +.fluidpreview.com
 +.fluids.ac.uk
@@ -10062,6 +10065,7 @@ self.events.data.microsoft.com
 +.grids.ac.uk
 +.grimsby.ac.uk
 +.grimsbytec.ac.uk
++.grok.com
 +.grooby.com
 +.groq.com
 +.groupfun.com
@@ -15853,6 +15857,8 @@ self.events.data.microsoft.com
 +.nexitally.com
 +.nexitallysafe.com
 +.nexitcore.com
++.nexo.com
++.nexo.io
 +.nexon.co.jp
 +.nexon.io
 +.nexoncdn.co.kr
@@ -17505,7 +17511,9 @@ self.events.data.microsoft.com
 +.pixfs.net
 +.pixhost.to
 +.pixinsight.com.tw
++.pixiv-recommend.net
 +.pixiv.co.jp
++.pixiv.help
 +.pixiv.me
 +.pixiv.org
 +.pixlr-o-matic.com
