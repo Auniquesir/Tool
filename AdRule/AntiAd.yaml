@@ -1,6 +1,6 @@
 # 规则名称: AntiAd
-# 规则数量: 130596
-# 更新时间: 2025-02-23 08:47:54
+# 规则数量: 130599
+# 更新时间: 2025-02-23 20:14:56
 
 payload:
   - '+.0.101tubeporn.com'
@@ -102555,6 +102555,7 @@ payload:
   - '+.spmyma.moscowfresh.ru'
   - '+.spn-twr-14.com'
   - '+.spo-play.live'
+  - '+.spoaven.top'
   - '+.spoiledpresence.com'
   - '+.spoilmagicstandard.com'
   - '+.spoilphysiqueteenagers.com'
@@ -110123,6 +110124,7 @@ payload:
   - '+.tci.oss-ap-southeast-1.aliyuncs.com'
   - '+.tci.www.edusmartssl.com'
   - '+.tcimg.com'
+  - '+.tcinvdi.top'
   - '+.tciqgx.xyz'
   - '+.tck.fr.transavia.com'
   - '+.tck.photobox.com'
@@ -128469,6 +128471,7 @@ payload:
   - '+.yesuphost.com'
   - '+.yeswevibe.com'
   - '+.yeswplearning.info'
+  - '+.yetcdn.com'
   - '+.yetshape.com'
   - '+.yetterslave.com'
   - '+.yev.moviesdirectpro.com'
