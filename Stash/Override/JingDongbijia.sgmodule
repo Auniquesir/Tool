@@ -1,0 +1,25 @@
+name: |-
+  京东比价
+desc: |-
+  京东App历史价格（商品详情页面触发）
+icon: |-
+  https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1052.png
+
+http:
+
+  mitm:
+    - "in.m.jd.com"
+
+  script:
+    - match: ^https:\/\/in\.m\.jd\.com\/product\/graphext\/\d+\.html
+      name: "京东比价_3"
+      type: response
+      require-body: true
+      max-size: 0
+      binary-mode: false
+      timeout: 30
+
+script-providers:
+  "京东比价_3":
+    url: https://raw.githubusercontent.com/githubdulong/Script/master/jd_price.js
+    interval: 86400
