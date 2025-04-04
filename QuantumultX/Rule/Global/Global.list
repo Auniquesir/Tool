@@ -1,5 +1,5 @@
 # 规则名称: Global.list
-# 规则统计: 31983
+# 规则统计: 31982
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -24317,7 +24317,6 @@ HOST-SUFFIX,xxbb9.com,Global
 HOST-SUFFIX,xxbook.cc,Global
 HOST-SUFFIX,xxbrits.com,Global
 HOST-SUFFIX,xxeronetxx.info,Global
-HOST-SUFFIX,xxfbiaa.xyz,Global
 HOST-SUFFIX,xxgasm.com,Global
 HOST-SUFFIX,xxindianporn.com,Global
 HOST-SUFFIX,xxiqiyiavxx.buzz,Global

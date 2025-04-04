@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2025-04-04 02:15:11
+最后更新时间：2025-04-05 02:14:44
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 279  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 105186  | 
+| DOMAIN-SUFFIX | 106398  | 
 | DOMAIN-WILDCARD | 1  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8311  | 
-| IP-CIDR6 | 12240  | 
+| IP-CIDR | 8314  | 
+| IP-CIDR6 | 12330  | 
 | USER-AGENT(X支持) | 65  | 
-| TOTAL(仅供参考) | 126096  | 
+| TOTAL(仅供参考) | 127401  | 
 
 
 ## X 
@@ -427,9 +427,9 @@ https://raw.githubusercontent.com/Auniquesir/Tool/X/X/Rule/ChinaMax/ChinaMax.lis
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
-- https://ruleset.isagood.day/alibaba_domain.conf
+- https://ruleset.isagood.day/bilibili.conf
 - https://ruleset.isagood.day/icbc.conf
-- https://ruleset.isagood.day/wechat.conf
+- https://ruleset.isagood.day/stream_cn.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 

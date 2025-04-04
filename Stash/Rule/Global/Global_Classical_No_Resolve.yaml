@@ -1,5 +1,5 @@
 # 规则名称: Global_Classical_No_Resolve
-# 规则统计: 31411
+# 规则统计: 31410
 
 payload:
   - DOMAIN,adobeereg.com
@@ -24226,7 +24226,6 @@ payload:
   - DOMAIN-SUFFIX,xxbook.cc
   - DOMAIN-SUFFIX,xxbrits.com
   - DOMAIN-SUFFIX,xxeronetxx.info
-  - DOMAIN-SUFFIX,xxfbiaa.xyz
   - DOMAIN-SUFFIX,xxgasm.com
   - DOMAIN-SUFFIX,xxindianporn.com
   - DOMAIN-SUFFIX,xxiqiyiavxx.buzz

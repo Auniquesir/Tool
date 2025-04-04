@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 31257
+# 规则统计: 31256
 
 adobeereg.com
 angle.com.tw
@@ -24225,7 +24225,6 @@ login.microsoftonline.com
 .xxbook.cc
 .xxbrits.com
 .xxeronetxx.info
-.xxfbiaa.xyz
 .xxgasm.com
 .xxindianporn.com
 .xxiqiyiavxx.buzz

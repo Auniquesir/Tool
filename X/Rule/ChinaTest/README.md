@@ -12,19 +12,19 @@ ChinaTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-04-04 02:14:12
+最后更新时间：2025-04-05 02:13:43
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 118  | 
 | DOMAIN-KEYWORD | 9  | 
-| DOMAIN-SUFFIX | 106446  | 
+| DOMAIN-SUFFIX | 107680  | 
 | DOMAIN-WILDCARD | 1  | 
 | IP-CIDR | 11  | 
 | IP-CIDR6 | 4  | 
 | USER-AGENT(X支持) | 31  | 
-| TOTAL(仅供参考) | 106620  | 
+| TOTAL(仅供参考) | 107854  | 
 
 
 ## X 
