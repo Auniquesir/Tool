@@ -1,6 +1,6 @@
 # 规则名称: AntiAd
-# 规则数量: 133463
-# 更新时间: 2025-04-04 08:46:51
+# 规则数量: 133490
+# 更新时间: 2025-04-04 20:18:27
 
 +.0.101tubeporn.com
 +.0.clicks4me.fwh.is
@@ -10590,6 +10590,7 @@
 +.af.gmobile.biz
 +.af.shozankan-shop.com
 +.af043ebde4.10a03eb82c.com
++.af30ee9e36.com
 +.af5b2ff170.e3aa58c849.com
 +.af6s.icu
 +.af9dc9.xyz
@@ -16771,6 +16772,7 @@
 +.atraff.com
 +.atraxio.com
 +.atrdb.laeckerli-huus.ch
++.atrendsz.com
 +.atriahatband.com
 +.atris.xyz
 +.atrkmankubf.com
@@ -19022,6 +19024,7 @@
 +.behim.click
 +.behindextend.com
 +.behindfebruary.com
++.behindforhewas.org
 +.beholdcontents.com
 +.behoppipan.com
 +.behvgsik.icu
@@ -19396,6 +19399,7 @@
 +.beyondsecurity.com
 +.beyondwickedmapping.org
 +.beyourxfriend.com
++.bezzzxoscu.com
 +.bf-ad.net
 +.bf-tools.net
 +.bf002bbbbb.com
@@ -21652,6 +21656,7 @@
 +.bumxmomcu.com
 +.bun1.dayi.org.cn
 +.bunbeautifullycleverness.com
++.bunceptsclosingh.com
 +.bunchance.com
 +.bunchbox.co
 +.bunchybombus.top
@@ -22720,6 +22725,7 @@
 +.camsitecash.com
 +.camsoda1.com
 +.camzap.com
++.can-get-so.me
 +.can-get-some.in
 +.can-get-some.net
 +.canada.postcanadakxcif.top
@@ -23885,6 +23891,7 @@
 +.ceefsyqotuagk.com
 +.ceegrezushu.net
 +.ceegriwuwoa.net
++.ceeilcvgjq.xyz
 +.ceekougy.net
 +.ceemoptu.xyz
 +.ceethipt.com
@@ -35819,6 +35826,7 @@
 +.dhenr54m.com
 +.dhfhxr.big-m-one.com
 +.dhgdp.cn
++.dhievvienr.com
 +.dhiva-test.email.chriscarter.io
 +.dhizwb.maletas.es
 +.dhjrvj.xyz
@@ -39685,6 +39693,7 @@
 +.edecher.com
 +.edeensiwaftaih.xyz
 +.edenicaurited.top
++.edentwithought.org
 +.edeqqd.helbrecht.com
 +.ederrassi.com
 +.edesf.xyzxmark.cn
@@ -42780,6 +42789,7 @@
 +.exmvpyq.com
 +.exnesstrack.com
 +.exnzlk.knittingroom.se
++.exo1.georealcdn.com
 +.exoads.click
 +.exobafrgdf.com
 +.exoclick.com
@@ -49113,6 +49123,7 @@
 +.go.zoomex.com
 +.go.zvooq.com
 +.go1.for3e.com
++.go1.reachsrv.com
 +.go1.yare.work
 +.go2.altaro.com
 +.go2.global
@@ -50975,6 +50986,7 @@
 +.gymea.site
 +.gymgipsy.com
 +.gymnasiumfilmgale.com
++.gymnasiumvestigeking.com
 +.gynax.com
 +.gynietrooe.com
 +.gypowdr.com
@@ -51834,6 +51846,7 @@
 +.heidoumedia.com
 +.heima8.com
 +.heimi.red
++.heimishcresyl.shop
 +.heimo.rrsdl.com
 +.heioa.xyz
 +.heiressplane.com
@@ -52126,6 +52139,8 @@
 +.hgzqxe.hanesbrandsinc.jp
 +.hh-btr.com
 +.hh.jiankang.com
++.hh04040aoik.com
++.hh04041aoik.com
 +.hh6666.com
 +.hh6820123.com
 +.hh9uc8r3.xyz
@@ -54157,6 +54172,7 @@
 +.icdirect.com
 +.icdtet.sportnetit.com
 +.icdxc.com
++.iceao.shop
 +.icebergindigo.com
 +.icebns.com
 +.icecars.com
@@ -58145,6 +58161,7 @@
 +.istatistik.trthaber.com
 +.istats.nl
 +.isteetashy.com
++.istipaumophy.com
 +.istkechaukrguk.com
 +.istlandoll.com
 +.istlnkbn.com
@@ -58759,6 +58776,7 @@
 +.jbrlsr.com
 +.jbtcsd.ivy-oak.de
 +.jbtul.com
++.jbucljxqgbgzk.icu
 +.jbzmwqmwqyleb.top
 +.jc.4006825178.com
 +.jc.anhuilitian.net
@@ -67443,6 +67461,7 @@
 +.lrjjly.rockler.com
 +.lrjnbf.sabon.co.jp
 +.lrkfuheobm.one
++.lrkt-in.com
 +.lrlsrz.xyz
 +.lrlxjl.led-valot.fi
 +.lrmxfo.torgoen.com
@@ -67615,6 +67634,7 @@
 +.luckysearch123.com
 +.luckyz.xyz
 +.luckyzombie.com
++.lucnxzoylxmvu.love
 +.lucprofessional.com.br
 +.lucprofessional.grupomoltz.com.br
 +.lucrinearraign.com
@@ -72182,6 +72202,7 @@
 +.meadowlark.hownow.guide
 +.meadowlark.psynapse.no
 +.meadowlullaby.com
++.meaese.click
 +.meagplin.com
 +.mealrake.com
 +.mealrentyard.com
@@ -77834,6 +77855,7 @@
 +.navi38.ru
 +.navi39.ru
 +.navi4.com
++.navi42.ru
 +.navi45.com
 +.navi45.ru
 +.navi53.com
@@ -78086,6 +78108,7 @@
 +.nefdcnmvbt.com
 +.nefrpt.top
 +.neg2zos.icu
++.negateacted.com
 +.negatebogfern.com
 +.negationanalogous.com
 +.negationomitor.com
@@ -79060,7 +79083,6 @@
 +.nlawnt.gurhan.com
 +.nlbukc.babyworld.se
 +.nld0jsg9s9p8.com
-+.nldstore.com
 +.nleldedallovera.info
 +.nlerdg.kriso.lt
 +.nlf6.vente-unique.pl
@@ -79302,7 +79324,6 @@
 +.norex-app.paihealth.no
 +.norfotball.com
 +.norgefotball.com
-+.norgeshoes.com
 +.norm0care.com
 +.norma-external-collect.meizu.com
 +.normal-strength.com
@@ -80958,6 +80979,7 @@
 +.okhwxl.rnainc.jp
 +.oki.sxlczj.cn
 +.okidata.fr
++.okikwul.icu
 +.okiterk.top
 +.okjjwuru.com
 +.okkkk.com
@@ -84407,7 +84429,6 @@
 +.paymentslink.dropp.cc
 +.payoffdonatecookery.com
 +.payoneok.com
-+.paypays.shop
 +.payperpost.com
 +.payplintelverify3.site
 +.paypopup.com
@@ -85258,7 +85279,6 @@
 +.photos7.pop6.com
 +.photos8.pop6.com
 +.phototan-cdirect.info
-+.phototan.net
 +.phouckoothoo.net
 +.phouckusogh.net
 +.phoukridrap.net
@@ -86368,6 +86388,7 @@
 +.pmm.people.com.cn
 +.pmmpjb.matratzen-concord.de
 +.pmnwqx.zawojski.pl
++.pmnyzf.icu
 +.pmptk.xyz
 +.pmrdnt.tuincentrum.nl
 +.pmrzoo.fruttaebacche.it
@@ -87764,6 +87785,7 @@
 +.promotionad.nvcam.net
 +.promotionbar.sapoapps.vn
 +.promotionengine.com
++.promotionnecessity.com
 +.promotionpopup.sapoapps.vn
 +.promotions.501c3.org
 +.promotions.batesville.com
@@ -87828,7 +87850,6 @@
 +.proranktracker.com
 +.proreancostaea.com
 +.prorentisol.com
-+.prorify.de
 +.proscholarshub.com
 +.proscontaining.com
 +.prose-nou.com
@@ -88689,6 +88710,7 @@
 +.pushwize.com
 +.pushwoosh.com
 +.pushy.ai
++.pushyconsequence.com
 +.pushyexcitement.pro
 +.pusishegre.com
 +.pussl3.com
@@ -89674,6 +89696,7 @@
 +.qtimiyy.top
 +.qtj0.destinia.pl
 +.qtmojo.com
++.qtoeofqazggu.com
 +.qtoidch.icu
 +.qtorzy.mothercare.ae
 +.qtoxhaamntfi.com
@@ -92783,6 +92806,7 @@
 +.rpsctx.chamilia.com
 +.rpsukimsjy.com
 +.rpt.kidsfootlocker.com
++.rptdhu.top
 +.rptmoczqsf.com
 +.rpts.org
 +.rpyor0k.xyz
@@ -103196,7 +103220,6 @@
 +.snakeslang.com
 +.snakesshop.com
 +.snakesstone.com
-+.snaklenest.com
 +.snalytics.accidenthero.at
 +.snalytics.allianz-assistance.at
 +.snalytics.allianz-assistance.es
@@ -103944,6 +103967,7 @@
 +.songsterritory.com
 +.songtopbrand.com
 +.soniksports.fr
++.sonkransme.com
 +.sonne.helgahilft.com
 +.sonnerie.net
 +.sonnyadvertise.com
@@ -112850,7 +112874,6 @@
 +.tedo-stats.de
 +.tedtaxi.com
 +.tedtug.com
-+.tee24h.com
 +.teearrow.com
 +.teedastoowu.net
 +.teedipoaduw.net
@@ -120998,6 +121021,7 @@
 +.tzhchq.secretderm.com
 +.tzhfxe.bonlook.com
 +.tzhrmcnidxqwrb.com
++.tzirtatakoqf.com
 +.tzlit.cn
 +.tzojiqrixpma.com
 +.tzovkp.aboutyou.at
@@ -122192,6 +122216,7 @@
 +.untrk.xyz
 +.untropiuson.com
 +.untruecharacterizepeople.com
++.unudlbntgpg.com
 +.unugilpcyxoep.com
 +.unusedquestion.com
 +.unusedstone.com
@@ -124660,6 +124685,7 @@
 +.vrtzads.com
 +.vruaskogjsu.com
 +.vrulqil.com
++.vruzexzl.com
 +.vrvjwr.mobelaris.com
 +.vrvxovgj.xyz
 +.vrwvro.pongdangshop.com
@@ -126882,6 +126908,7 @@
 +.windows-update-02-en.com
 +.windows-wsus-update.com
 +.windowsavings.pro
++.windowsdnsservicereload.icu
 +.windowsexperts.pro
 +.windowsuseful.com
 +.windrightyshade.com
@@ -132071,6 +132098,7 @@
 +.yves-rocker.fr
 +.yvgesf.copmed.fr
 +.yviswt.lamaisonduchocolat.com
++.yvkdkwnoyafrs.com
 +.yvmads.com
 +.yvnjriyaqnt.com
 +.yvoria.com
@@ -132630,7 +132658,6 @@
 +.zeroredirect8.com
 +.zerorolex.com
 +.zerostats.com
-+.zerowasteinitiative.com
 +.zeryt111.fun
 +.zerzvqrzzvlmo.top
 +.zesep.com
