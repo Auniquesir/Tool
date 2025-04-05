@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 6211
+# 规则统计: 6213
 
 payload:
   - 'api.waqi.info'
@@ -439,6 +439,7 @@ payload:
   - '+.att.com'
   - '+.audacy.com'
   - '+.audionow.com'
+  - '+.auth.openai.com'
   - '+.autodraw.com'
   - '+.av-e-body.com'
   - '+.av.com'
@@ -3849,6 +3850,7 @@ payload:
   - '+.open.com.hk'
   - '+.openallweb.com'
   - '+.opendemocracy.net'
+  - '+.opendesktop.org'
   - '+.opendn.xyz'
   - '+.openervpn.in'
   - '+.openid.net'

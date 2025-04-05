@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 31256
+# 规则统计: 31257
 
 adobeereg.com
 angle.com.tw
@@ -28898,6 +28898,7 @@ login.microsoftonline.com
 .open.com.hk
 .openallweb.com
 .opendemocracy.net
+.opendesktop.org
 .opendn.xyz
 .openervpn.in
 .openid.net

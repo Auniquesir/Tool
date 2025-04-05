@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Classical
-# 规则统计: 6334
+# 规则统计: 6336
 
 payload:
   - DOMAIN,api.waqi.info
@@ -439,6 +439,7 @@ payload:
   - DOMAIN-SUFFIX,att.com
   - DOMAIN-SUFFIX,audacy.com
   - DOMAIN-SUFFIX,audionow.com
+  - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,autodraw.com
   - DOMAIN-SUFFIX,av-e-body.com
   - DOMAIN-SUFFIX,av.com
@@ -3849,6 +3850,7 @@ payload:
   - DOMAIN-SUFFIX,open.com.hk
   - DOMAIN-SUFFIX,openallweb.com
   - DOMAIN-SUFFIX,opendemocracy.net
+  - DOMAIN-SUFFIX,opendesktop.org
   - DOMAIN-SUFFIX,opendn.xyz
   - DOMAIN-SUFFIX,openervpn.in
   - DOMAIN-SUFFIX,openid.net

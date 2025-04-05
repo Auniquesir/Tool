@@ -1,5 +1,5 @@
 # 规则名称: Proxy
-# 规则统计: 6793
+# 规则统计: 6795
 no_resolve: true
 domain_set:
 - api.msn.com
@@ -463,6 +463,7 @@ domain_suffix_set:
 - att.com
 - audacy.com
 - audionow.com
+- auth.openai.com
 - autodraw.com
 - av-e-body.com
 - av.com
@@ -4227,6 +4228,7 @@ domain_suffix_set:
 - open.com.hk
 - openallweb.com
 - opendemocracy.net
+- opendesktop.org
 - opendn.xyz
 - openervpn.in
 - openid.net

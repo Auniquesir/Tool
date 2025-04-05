@@ -1,5 +1,5 @@
 # 规则名称: Global.list
-# 规则统计: 31982
+# 规则统计: 31983
 
 HOST,3dns-1.adobe.com,Global
 HOST,3dns-2.adobe.com,Global
@@ -29344,6 +29344,7 @@ HOST-SUFFIX,ooyala.com,Global
 HOST-SUFFIX,open.com.hk,Global
 HOST-SUFFIX,openallweb.com,Global
 HOST-SUFFIX,opendemocracy.net,Global
+HOST-SUFFIX,opendesktop.org,Global
 HOST-SUFFIX,opendn.xyz,Global
 HOST-SUFFIX,openervpn.in,Global
 HOST-SUFFIX,openid.net,Global

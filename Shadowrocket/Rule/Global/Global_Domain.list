@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain.list
-# 规则统计: 31256
+# 规则统计: 31257
 
 .000webhost.com
 .01.org
@@ -20580,6 +20580,7 @@
 .opencollective.com
 .opencreate.org
 .opendemocracy.net
+.opendesktop.org
 .opendn.xyz
 .opendns.com
 .opendroneid.org

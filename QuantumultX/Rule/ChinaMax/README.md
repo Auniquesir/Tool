@@ -21,20 +21,20 @@
 
 ## 规则统计
 
-最后更新时间：2025-04-05 02:14:44
+最后更新时间：2025-04-06 02:13:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 279  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 106398  | 
+| HOST-SUFFIX | 106325  | 
 | HOST-WILDCARD | 1  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8314  | 
+| IP-CIDR | 8315  | 
 | IP6-CIDR | 12330  | 
 | USER-AGENT(QuantumultX支持) | 65  | 
-| TOTAL(仅供参考) | 127401  | 
+| TOTAL(仅供参考) | 127329  | 
 
 
 ## QuantumultX 
@@ -428,8 +428,7 @@ https://raw.githubusercontent.com/Auniquesir/Tool/X/QuantumultX/Rule/ChinaMax/Ch
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
 - https://ruleset.isagood.day/bilibili.conf
-- https://ruleset.isagood.day/icbc.conf
-- https://ruleset.isagood.day/stream_cn.conf
+- https://ruleset.isagood.day/wechat.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 

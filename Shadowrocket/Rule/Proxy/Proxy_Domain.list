@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain.list
-# 规则统计: 6210
+# 规则统计: 6212
 
 .000webhost.com
 .030buy.com
@@ -429,6 +429,7 @@
 .att.com
 .audacy.com
 .audionow.com
+.auth.openai.com
 .autodraw.com
 .av-e-body.com
 .av.com
@@ -3839,6 +3840,7 @@
 .open.com.hk
 .openallweb.com
 .opendemocracy.net
+.opendesktop.org
 .opendn.xyz
 .openervpn.in
 .openid.net

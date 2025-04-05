@@ -1,5 +1,5 @@
 # 规则名称: Proxy.list
-# 规则统计: 6801
+# 规则统计: 6803
 
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
@@ -461,6 +461,7 @@ HOST-SUFFIX,atnext.com,Proxy
 HOST-SUFFIX,att.com,Proxy
 HOST-SUFFIX,audacy.com,Proxy
 HOST-SUFFIX,audionow.com,Proxy
+HOST-SUFFIX,auth.openai.com,Proxy
 HOST-SUFFIX,autodraw.com,Proxy
 HOST-SUFFIX,av-e-body.com,Proxy
 HOST-SUFFIX,av.com,Proxy
@@ -4225,6 +4226,7 @@ HOST-SUFFIX,ooyala.com,Proxy
 HOST-SUFFIX,open.com.hk,Proxy
 HOST-SUFFIX,openallweb.com,Proxy
 HOST-SUFFIX,opendemocracy.net,Proxy
+HOST-SUFFIX,opendesktop.org,Proxy
 HOST-SUFFIX,opendn.xyz,Proxy
 HOST-SUFFIX,openervpn.in,Proxy
 HOST-SUFFIX,openid.net,Proxy

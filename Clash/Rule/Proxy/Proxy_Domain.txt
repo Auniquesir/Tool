@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 6210
+# 规则统计: 6212
 
 api.waqi.info
 aqi.aqicn.org
@@ -438,6 +438,7 @@ voice.telephony.goog
 .att.com
 .audacy.com
 .audionow.com
+.auth.openai.com
 .autodraw.com
 .av-e-body.com
 .av.com
@@ -3848,6 +3849,7 @@ voice.telephony.goog
 .open.com.hk
 .openallweb.com
 .opendemocracy.net
+.opendesktop.org
 .opendn.xyz
 .openervpn.in
 .openid.net
