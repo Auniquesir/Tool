@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35733
+# 规则统计: 35740
 
 no_resolve: true
 domain_set:
@@ -282,6 +282,7 @@ domain_set:
 - impala-media-production.s3.amazonaws.com
 - imperial.insendi.com
 - lab.skk.moe
+- lastfm-img.freetls.fastly.net
 - lastfm.freetls.fastly.net
 - lazer.ppy.sh
 - lgcscc-hamivideo2.cdn.hinet.net
@@ -12070,7 +12071,6 @@ domain_suffix_set:
 - hentai.pink
 - hentai.pro
 - hentai.toys
-- hentai.tv
 - hentai0.com
 - hentai01.com
 - hentai2.net
@@ -23746,7 +23746,6 @@ domain_suffix_set:
 - superstem.ac.uk
 - supertop.co
 - superuser.com
-- supjav.com
 - supply-chain.ac.uk
 - supplybestjerseys.com
 - support-uber.com
@@ -23965,7 +23964,6 @@ domain_suffix_set:
 - tagapie.com.tw
 - tagbank.ru
 - tags.ac.uk
-- taiav.com
 - taiko.xyz
 - tail-f.com
 - tailf.com
@@ -28421,6 +28419,8 @@ domain_suffix_set:
 - 10conditionsoflove.com
 - 10musume.com
 - 111666.best
+- 123av.com
+- 123av.me
 - 123rf.com
 - 12bet.com
 - 12vpn.com
@@ -31289,6 +31289,7 @@ domain_suffix_set:
 - helpzhuling.org
 - hembed.com
 - hentai.to
+- hentai.tv
 - hentaitube.tv
 - hentaivideoworld.com
 - heqinglian.net
@@ -33524,6 +33525,7 @@ domain_suffix_set:
 - roblox.com
 - roboforex.com
 - robustnessiskey.com
+- roc-taiwan.org
 - rocket-inc.net
 - rocket.chat
 - rocketbbs.com
@@ -33539,6 +33541,7 @@ domain_suffix_set:
 - rotten.com
 - rou.video
 - roucdn.link
+- roushuwo.com
 - rpglogs.com
 - rsdlmonitor.com
 - rsf-chinese.org
@@ -34058,6 +34061,7 @@ domain_suffix_set:
 - superpages.com
 - supervpn.net
 - superzooi.com
+- supjav.com
 - suppig.net
 - supremecourt.gov
 - suprememastertv.com
@@ -34109,6 +34113,7 @@ domain_suffix_set:
 - tagwa.org.au
 - tagwalk.com
 - tahr.org.tw
+- taiav.com
 - tails.net
 - taipeisociety.org
 - taipeitimes.com
@@ -34118,6 +34123,7 @@ domain_suffix_set:
 - taiwancon.com
 - taiwandaily.net
 - taiwandc.org
+- taiwanembassy.org
 - taiwanhot.net
 - taiwanjustice.com
 - taiwanjustice.net
@@ -35241,6 +35247,7 @@ domain_suffix_set:
 - wsj.net
 - wsjhk.com
 - wtbn.org
+- wtfpass.com
 - wtfpeople.com
 - wuerkaixi.com
 - wufafangwen.com

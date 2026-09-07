@@ -1,5 +1,5 @@
 # 规则名称: Proxy_Domain
-# 规则统计: 6784
+# 规则统计: 6793
 
 payload:
   - 'api.waqi.info'
@@ -22,6 +22,8 @@ payload:
   - '+.10conditionsoflove.com'
   - '+.10musume.com'
   - '+.111666.best'
+  - '+.123av.com'
+  - '+.123av.me'
   - '+.123rf.com'
   - '+.12bet.com'
   - '+.12vpn.com'
@@ -2548,6 +2550,7 @@ payload:
   - '+.helpzhuling.org'
   - '+.hembed.com'
   - '+.hentai.to'
+  - '+.hentai.tv'
   - '+.hentaitube.tv'
   - '+.hentaivideoworld.com'
   - '+.heqinglian.net'
@@ -4758,6 +4761,7 @@ payload:
   - '+.roblox.com'
   - '+.roboforex.com'
   - '+.robustnessiskey.com'
+  - '+.roc-taiwan.org'
   - '+.rocket-inc.net'
   - '+.rocket.chat'
   - '+.rocketbbs.com'
@@ -4773,6 +4777,7 @@ payload:
   - '+.rotten.com'
   - '+.rou.video'
   - '+.roucdn.link'
+  - '+.roushuwo.com'
   - '+.rpglogs.com'
   - '+.rsdlmonitor.com'
   - '+.rsf-chinese.org'
@@ -5293,6 +5298,7 @@ payload:
   - '+.superpages.com'
   - '+.supervpn.net'
   - '+.superzooi.com'
+  - '+.supjav.com'
   - '+.suppig.net'
   - '+.supremecourt.gov'
   - '+.suprememastertv.com'
@@ -5344,6 +5350,7 @@ payload:
   - '+.tagwa.org.au'
   - '+.tagwalk.com'
   - '+.tahr.org.tw'
+  - '+.taiav.com'
   - '+.tails.net'
   - '+.taipeisociety.org'
   - '+.taipeitimes.com'
@@ -5353,6 +5360,7 @@ payload:
   - '+.taiwancon.com'
   - '+.taiwandaily.net'
   - '+.taiwandc.org'
+  - '+.taiwanembassy.org'
   - '+.taiwanhot.net'
   - '+.taiwanjustice.com'
   - '+.taiwanjustice.net'
@@ -6452,6 +6460,7 @@ payload:
   - '+.wsj.net'
   - '+.wsjhk.com'
   - '+.wtbn.org'
+  - '+.wtfpass.com'
   - '+.wtfpeople.com'
   - '+.wuerkaixi.com'
   - '+.wufafangwen.com'
