@@ -74,7 +74,17 @@ jobs:
           git clone --depth=1 https://github.com/QingRex/LoonKissSurge.git tmp_surge
           process_modules "tmp_surge/Surge/Official" "X/Module" "https://github.com/Qmxn/Tool/raw/X/icon/icon/XD.png" "Official"
           rm -rf tmp_surge
-          # 3. 处理 wool_scripts 稀疏检出的模块（已移除，不再创建顶层 Module 文件夹）
+          # 3. 处理 wool_scripts 稀疏检出的模块
+          mkdir -p temp_upstream && cd temp_upstream
+          git init
+          git remote add origin https://github.com/fmz200/wool_scripts.git
+          git config core.sparseCheckout true
+          echo "Surge/module/split" >> .git/info/sparse-checkout
+          git pull origin main --depth=1
+          cd ..
+          # 处理 Module 模块
+          process_modules "temp_upstream/Surge/module/split" "X/Module" "https://github.com/Qmxn/Tool/raw/X/icon/icon/XD.png"
+          rm -rf temp_upstream
       - name: Add and Commit
         run: |
           if [[ -n $(git status -s) ]]; then
