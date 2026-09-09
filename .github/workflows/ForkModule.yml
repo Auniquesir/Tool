@@ -61,7 +61,22 @@ jobs:
             done)
           }
           # ---------- 主流程 ----------
-          # 1. 克隆主仓库，供插件和模块使用
+          # 1. 处理 wool_scripts
+          mkdir -p temp_upstream && cd temp_upstream
+          git init
+          git remote add origin https://github.com/fmz200/wool_scripts.git
+          git config core.sparseCheckout true
+          echo "Surge/module/split" >> .git/info/sparse-checkout
+          git pull origin main --depth=1
+          cd ..
+          process_modules "temp_upstream/Surge/module/split" "X/Module" "https://github.com/Qmxn/Tool/raw/X/icon/icon/XD.png"
+          # 重命名 Google.module → GoogleAD.module，避免覆盖
+          if [ -f "X/Module/Google.module" ]; then
+            mv "X/Module/Google.module" "X/Module/GoogleAD.module"
+          fi
+          rm -rf temp_upstream
+
+          # 2. 克隆主仓库，供插件和模块使用
           git clone --depth=1 --branch X https://github.com/Qmxn/Tools.git tmp_Qmxn
           # 处理 Loon 插件
           process_plugins "tmp_Qmxn" "Loon/Plugin" "https://github.com/Qmxn/Tool/raw/X/icon/icon/loonLite.png"
@@ -70,21 +85,11 @@ jobs:
           # 处理 Module 模块
           process_modules "tmp_Qmxn/Modules" "X/Module" "https://github.com/Qmxn/Tool/raw/X/icon/icon/XD.png"
           rm -rf tmp_Qmxn
-          # 2. 处理 LoonKissSurge 中的 Official 模块
+
+          # 3. 处理 LoonKissSurge 中的 Official 模块
           git clone --depth=1 https://github.com/QingRex/LoonKissSurge.git tmp_surge
           process_modules "tmp_surge/Surge/Official" "X/Module" "https://github.com/Qmxn/Tool/raw/X/icon/icon/XD.png" "Official"
           rm -rf tmp_surge
-          # 3. 处理 wool_scripts 稀疏检出的模块
-          mkdir -p temp_upstream && cd temp_upstream
-          git init
-          git remote add origin https://github.com/fmz200/wool_scripts.git
-          git config core.sparseCheckout true
-          echo "Surge/module/split" >> .git/info/sparse-checkout
-          git pull origin main --depth=1
-          cd ..
-          # 处理 Module 模块
-          process_modules "temp_upstream/Surge/module/split" "X/Module" "https://github.com/Qmxn/Tool/raw/X/icon/icon/XD.png"
-          rm -rf temp_upstream
       - name: Add and Commit
         run: |
           if [[ -n $(git status -s) ]]; then
