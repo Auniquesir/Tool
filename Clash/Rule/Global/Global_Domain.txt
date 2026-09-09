@@ -1,5 +1,5 @@
 # 规则名称: Global_Domain
-# 规则统计: 34890
+# 规则统计: 34891
 
 1password.drift.click
 adobeereg.com
@@ -18146,6 +18146,7 @@ login.microsoftonline.com
 .nodequality.com
 .nodereal.io
 .nodes.ac.uk
+.nodeseek.org
 .nodesnoop.com
 .nodesource.com
 .noisullifb.com

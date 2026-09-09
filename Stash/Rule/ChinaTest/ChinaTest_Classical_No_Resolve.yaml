@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest_Classical_No_Resolve
-# 规则统计: 110965
+# 规则统计: 110966
 
 payload:
   - DOMAIN,analytics.strava.com
@@ -104935,6 +104935,7 @@ payload:
   - DOMAIN-SUFFIX,yuanpanguoji.com
   - DOMAIN-SUFFIX,yuanqiao.net
   - DOMAIN-SUFFIX,yuanqiao.pw
+  - DOMAIN-SUFFIX,yuanqidesk.com
   - DOMAIN-SUFFIX,yuanqilt.com
   - DOMAIN-SUFFIX,yuanqingsh.com
   - DOMAIN-SUFFIX,yuanqisenlin.com

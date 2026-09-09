@@ -1,5 +1,5 @@
 # 规则名称: Global
-# 规则统计: 35780
+# 规则统计: 35781
 
 HOST,1password.drift.click,Global
 HOST,3dns-1.adobe.com,Global
@@ -18448,6 +18448,7 @@ HOST-SUFFIX,nodejs.org,Global
 HOST-SUFFIX,nodequality.com,Global
 HOST-SUFFIX,nodereal.io,Global
 HOST-SUFFIX,nodes.ac.uk,Global
+HOST-SUFFIX,nodeseek.org,Global
 HOST-SUFFIX,nodesnoop.com,Global
 HOST-SUFFIX,nodesource.com,Global
 HOST-SUFFIX,noisullifb.com,Global

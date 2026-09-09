@@ -1,5 +1,5 @@
 # 规则名称: ChinaTest_Domain
-# 规则统计: 110941
+# 规则统计: 110942
 
 payload:
   - 'analytics.strava.com'
@@ -104935,6 +104935,7 @@ payload:
   - '+.yuanpanguoji.com'
   - '+.yuanqiao.net'
   - '+.yuanqiao.pw'
+  - '+.yuanqidesk.com'
   - '+.yuanqilt.com'
   - '+.yuanqingsh.com'
   - '+.yuanqisenlin.com'
